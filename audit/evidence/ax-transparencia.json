@@ -1,0 +1,541 @@
+[
+  {
+    "role": "link",
+    "name": "Ir al contenido principal",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 185
+  },
+  {
+    "role": "image",
+    "name": "Dominican flag",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 63
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 197
+  },
+  {
+    "role": "link",
+    "name": "Logo DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 296
+  },
+  {
+    "role": "link",
+    "name": "SISTEMA ELECTRÓNICO",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 298
+  },
+  {
+    "role": "button",
+    "name": "Menú de Accesibilidad",
+    "description": "Menú de Accesibilidad",
+    "ignored": false,
+    "backendDOMNodeId": 170
+  },
+  {
+    "role": "button",
+    "name": " Buscar",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 8
+  },
+  {
+    "role": "button",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 308
+  },
+  {
+    "role": "link",
+    "name": "ES ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 394
+  },
+  {
+    "role": "link",
+    "name": "Inicio",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 516
+  },
+  {
+    "role": "link",
+    "name": "Transparencia",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 536
+  },
+  {
+    "role": "link",
+    "name": "Noticias",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 537
+  },
+  {
+    "role": "link",
+    "name": "MIPYMEs",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 569
+  },
+  {
+    "role": "link",
+    "name": "Contactos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 570
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 44
+  },
+  {
+    "role": "link",
+    "name": "Subir",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 999
+  },
+  {
+    "role": "image",
+    "name": "Logo DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 3
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 12
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 17
+  },
+  {
+    "role": "button",
+    "name": "Nosotros ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 518
+  },
+  {
+    "role": "button",
+    "name": "Servicios ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 528
+  },
+  {
+    "role": "button",
+    "name": "Sistema de Información ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 539
+  },
+  {
+    "role": "button",
+    "name": "Interés ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 548
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir en Facebook",
+    "ignored": false,
+    "backendDOMNodeId": 931
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir en Twitter",
+    "ignored": false,
+    "backendDOMNodeId": 932
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir en LinkedIn",
+    "ignored": false,
+    "backendDOMNodeId": 933
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir por Email",
+    "ignored": false,
+    "backendDOMNodeId": 934
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Imprimir",
+    "ignored": false,
+    "backendDOMNodeId": 935
+  },
+  {
+    "role": "link",
+    "name": "Facebook",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1078
+  },
+  {
+    "role": "link",
+    "name": "Twitter",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1081
+  },
+  {
+    "role": "link",
+    "name": "Youtube",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1084
+  },
+  {
+    "role": "link",
+    "name": "Instagram",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1087
+  },
+  {
+    "role": "link",
+    "name": "TikTok",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1090
+  },
+  {
+    "role": "link",
+    "name": "Linkedin",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1093
+  },
+  {
+    "role": "image",
+    "name": "Isotipo DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 45
+  },
+  {
+    "role": "image",
+    "name": "Logo GOB",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 47
+  },
+  {
+    "role": "link",
+    "name": "Contacto",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1017
+  },
+  {
+    "role": "link",
+    "name": "(809) 682-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1020
+  },
+  {
+    "role": "link",
+    "name": "(829) 681-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1021
+  },
+  {
+    "role": "link",
+    "name": "direcciongeneral@dgcp.gob.do",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1023
+  },
+  {
+    "role": "link",
+    "name": "Calle Pedro A. Lluberes #10204, Esq. Manuel Rodríguez Objío, Gascue, Santo Domingo, República Dominicana",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1028
+  },
+  {
+    "role": "link",
+    "name": "Términos de Uso",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1033
+  },
+  {
+    "role": "link",
+    "name": "Políticas de Privacidad",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1035
+  },
+  {
+    "role": "link",
+    "name": "Preguntas Frecuentes",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1037
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1049
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1052
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1055
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1058
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1061
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1064
+  },
+  {
+    "role": "link",
+    "name": "Sello Igualando RD Oro",
+    "description": "Sello Igualando RD",
+    "ignored": false,
+    "backendDOMNodeId": 1066
+  },
+  {
+    "role": "link",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "NORDOM ISO 37001: 2016",
+    "ignored": false,
+    "backendDOMNodeId": 1068
+  },
+  {
+    "role": "link",
+    "name": "Inicio",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 771
+  },
+  {
+    "role": "link",
+    "name": "Base Legal de la Institución ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 773
+  },
+  {
+    "role": "link",
+    "name": "Marco Legal del Sistema de Transparencia ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 786
+  },
+  {
+    "role": "link",
+    "name": "Estructura Orgánica de la Institución",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 797
+  },
+  {
+    "role": "link",
+    "name": "Portal único de Transparencia",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 799
+  },
+  {
+    "role": "link",
+    "name": "Oficina de Libre Acceso a la Información (OAI) ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 801
+  },
+  {
+    "role": "link",
+    "name": "Plan Estratégico Institucional ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 824
+  },
+  {
+    "role": "link",
+    "name": "Publicaciones Oficiales",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 833
+  },
+  {
+    "role": "link",
+    "name": "Estadísticas Institucionales",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 835
+  },
+  {
+    "role": "link",
+    "name": "Información básica sobre Servicios Públicos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 837
+  },
+  {
+    "role": "link",
+    "name": "Acceso y Registro al Portal 311 sobre Quejas, Reclamaciones, Sugerencias y Denuncias ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 839
+  },
+  {
+    "role": "link",
+    "name": "Declaraciones juradas de patrimonio",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 846
+  },
+  {
+    "role": "link",
+    "name": "Presupuestos ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 848
+  },
+  {
+    "role": "link",
+    "name": "Recursos Humanos ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 855
+  },
+  {
+    "role": "link",
+    "name": "Programas Asistenciales",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 864
+  },
+  {
+    "role": "link",
+    "name": "Compras y Contrataciones ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 866
+  },
+  {
+    "role": "link",
+    "name": "Proyectos y Programas",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 895
+  },
+  {
+    "role": "link",
+    "name": "Finanzas ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 897
+  },
+  {
+    "role": "link",
+    "name": "Datos Abiertos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 912
+  },
+  {
+    "role": "link",
+    "name": "Comisión de Integridad y Cumplimiento ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 914
+  },
+  {
+    "role": "link",
+    "name": "Consulta Pública",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 923
+  },
+  {
+    "role": "link",
+    "name": "Convenios Institucionales",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 925
+  },
+  {
+    "role": "image",
+    "name": "Sello Igualando RD Oro",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 52
+  },
+  {
+    "role": "image",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 53
+  },
+  {
+    "role": "link",
+    "name": "INICIO",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 610
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-10-14T15:59:58.537Z",
+  "notes": [],
+  "contact": {
+    "fields": [
+      {
+        "tag": "input",
+        "id": "nombre",
+        "name": "nombre",
+        "type": "text",
+        "required": false,
+        "ariaRequired": "true",
+        "labels": [
+          "Nombre *"
+        ]
+      },
+      {
+        "tag": "input",
+        "id": "correo",
+        "name": "correo",
+        "type": "email",
+        "required": false,
+        "ariaRequired": "true",
+        "labels": [
+          "Correo Electrónico *"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "id": "mensaje",
+        "name": "mensaje",
+        "type": null,
+        "required": false,
+        "ariaRequired": "true",
+        "labels": [
+          "Mensaje *"
+        ]
+      },
+      {
+        "tag": "input",
+        "id": "",
+        "name": null,
+        "type": "submit",
+        "required": false,
+        "ariaRequired": null,
+        "labels": []
+      }
+    ],
+    "afterEmptySubmit": {
+      "focused": {
+        "tag": "input",
+        "id": "",
+        "name": null
+      },
+      "invalid": [
+        {
+          "tag": "input",
+          "id": "nombre",
+          "name": "nombre",
+          "ariaInvalid": "true",
+          "describedby": "wpcf7-f11070-p19-o1-ve-nombre",
+          "message": "El campo es obligatorio."
+        },
+        {
+          "tag": "input",
+          "id": "correo",
+          "name": "correo",
+          "ariaInvalid": "true",
+          "describedby": "wpcf7-f11070-p19-o1-ve-correo",
+          "message": "La dirección de correo electrónico que has introducido no es válida."
+        }
+      ],
+      "form": {
+        "class": "wpcf7-form cf7mls-no-scroll cf7mls-no-moving-animation init",
+        "status": "init"
+      },
+      "errors": [
+        {
+          "tag": "span",
+          "id": "",
+          "role": null,
+          "live": null,
+          "text": "El campo es obligatorio."
+        },
+        {
+          "tag": "span",
+          "id": "",
+          "role": null,
+          "live": null,
+          "text": "La dirección de correo electrónico que has introducido no es válida."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,555 @@
+[
+  {
+    "role": "link",
+    "name": "Ir al contenido principal",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 203
+  },
+  {
+    "role": "link",
+    "name": "Reproducir o pausar animaciones",
+    "description": "Pausar Animaciones",
+    "ignored": false,
+    "backendDOMNodeId": 204
+  },
+  {
+    "role": "image",
+    "name": "Dominican flag",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 58
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 298
+  },
+  {
+    "role": "link",
+    "name": "DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 4
+  },
+  {
+    "role": "link",
+    "name": "SISTEMA ELECTRÓNICO",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 318
+  },
+  {
+    "role": "link",
+    "name": "RICG",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 784
+  },
+  {
+    "role": "link",
+    "name": "Open Contracting",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 786
+  },
+  {
+    "role": "link",
+    "name": "CoST Iniciativa de transparencia en Infraestructura",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 788
+  },
+  {
+    "role": "button",
+    "name": "Menú de Accesibilidad",
+    "description": "Menú de Accesibilidad",
+    "ignored": false,
+    "backendDOMNodeId": 188
+  },
+  {
+    "role": "button",
+    "name": " Buscar",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 8
+  },
+  {
+    "role": "button",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 332
+  },
+  {
+    "role": "link",
+    "name": "ES ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 419
+  },
+  {
+    "role": "link",
+    "name": "Inicio",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 525
+  },
+  {
+    "role": "link",
+    "name": "Transparencia",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 546
+  },
+  {
+    "role": "link",
+    "name": "Noticias",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 547
+  },
+  {
+    "role": "link",
+    "name": "MIPYMEs",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 585
+  },
+  {
+    "role": "link",
+    "name": "Contactos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 587
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 32
+  },
+  {
+    "role": "image",
+    "name": "RICG",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 33
+  },
+  {
+    "role": "image",
+    "name": "Open Contracting",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 34
+  },
+  {
+    "role": "image",
+    "name": "CoST Iniciativa de transparencia en Infraestructura",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 35
+  },
+  {
+    "role": "image",
+    "name": "DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 3
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 12
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 14
+  },
+  {
+    "role": "button",
+    "name": "Nosotros ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 527
+  },
+  {
+    "role": "button",
+    "name": "Servicios ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 538
+  },
+  {
+    "role": "button",
+    "name": "Sistema de Información ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 549
+  },
+  {
+    "role": "button",
+    "name": "Interés ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 559
+  },
+  {
+    "role": "link",
+    "name": "INICIO",
+    "description": "Clic para acceder al enlace",
+    "ignored": false,
+    "backendDOMNodeId": 646
+  },
+  {
+    "role": "link",
+    "name": "Facebook",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 872
+  },
+  {
+    "role": "link",
+    "name": "Twitter",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 875
+  },
+  {
+    "role": "link",
+    "name": "Youtube",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 878
+  },
+  {
+    "role": "link",
+    "name": "Instagram",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 881
+  },
+  {
+    "role": "link",
+    "name": "TikTok",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 884
+  },
+  {
+    "role": "link",
+    "name": "Linkedin",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 887
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir en Facebook",
+    "ignored": false,
+    "backendDOMNodeId": 762
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir en Twitter",
+    "ignored": false,
+    "backendDOMNodeId": 765
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir en LinkedIn",
+    "ignored": false,
+    "backendDOMNodeId": 768
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir por Email",
+    "ignored": false,
+    "backendDOMNodeId": 771
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Imprimir",
+    "ignored": false,
+    "backendDOMNodeId": 774
+  },
+  {
+    "role": "image",
+    "name": "Isotipo DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 36
+  },
+  {
+    "role": "image",
+    "name": "Logo GOB",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 38
+  },
+  {
+    "role": "link",
+    "name": "Contacto",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 809
+  },
+  {
+    "role": "link",
+    "name": "(809) 682-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 812
+  },
+  {
+    "role": "link",
+    "name": "(829) 681-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 813
+  },
+  {
+    "role": "link",
+    "name": "direcciongeneral@dgcp.gob.do",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 815
+  },
+  {
+    "role": "link",
+    "name": "Calle Pedro A. Lluberes #10204, Esq. Manuel Rodríguez Objío, Gascue, Santo Domingo, República Dominicana",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 820
+  },
+  {
+    "role": "link",
+    "name": "Términos de Uso",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 825
+  },
+  {
+    "role": "link",
+    "name": "Políticas de Privacidad",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 827
+  },
+  {
+    "role": "link",
+    "name": "Preguntas Frecuentes",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 829
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 841
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 844
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 847
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 850
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 853
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 856
+  },
+  {
+    "role": "link",
+    "name": "Sello Igualando RD Oro",
+    "description": "Sello Igualando RD",
+    "ignored": false,
+    "backendDOMNodeId": 858
+  },
+  {
+    "role": "link",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "NORDOM ISO 37001: 2016",
+    "ignored": false,
+    "backendDOMNodeId": 861
+  },
+  {
+    "role": "link",
+    "name": "809-682-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 659
+  },
+  {
+    "role": "link",
+    "name": "asistenciatecnica@dgcp.gob.do",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 661
+  },
+  {
+    "role": "link",
+    "name": "direcciongeneral@dgcp.gob.do",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 668
+  },
+  {
+    "role": "link",
+    "name": "(809) 682-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 673
+  },
+  {
+    "role": "link",
+    "name": "(829) 681-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 674
+  },
+  {
+    "role": "link",
+    "name": "Pulse aquí",
+    "description": "Abrir chat",
+    "ignored": false,
+    "backendDOMNodeId": 679
+  },
+  {
+    "role": "link",
+    "name": "sistemaelectronico.gob.do",
+    "description": "Ir al Sistema Electrónico",
+    "ignored": false,
+    "backendDOMNodeId": 682
+  },
+  {
+    "role": "link",
+    "name": "www.facebook.com/ComprasRD",
+    "description": "Ir a Facebook",
+    "ignored": false,
+    "backendDOMNodeId": 685
+  },
+  {
+    "role": "link",
+    "name": "www.instagram.com/comprasrd",
+    "description": "Ir a Instagram",
+    "ignored": false,
+    "backendDOMNodeId": 688
+  },
+  {
+    "role": "link",
+    "name": "www.linkedin.com/company/comprasrd",
+    "description": "Ir a Linkedin",
+    "ignored": false,
+    "backendDOMNodeId": 691
+  },
+  {
+    "role": "link",
+    "name": "www.twitter.com/ComprasRD",
+    "description": "Visitar perfil de Twitter",
+    "ignored": false,
+    "backendDOMNodeId": 694
+  },
+  {
+    "role": "link",
+    "name": "www.youtube.com/ContratacionesRD",
+    "description": "Ir a canal de YouTube",
+    "ignored": false,
+    "backendDOMNodeId": 697
+  },
+  {
+    "role": "link",
+    "name": "www.tiktok.com/@comprasrd",
+    "description": "Ir a canal de TikTok",
+    "ignored": false,
+    "backendDOMNodeId": 700
+  },
+  {
+    "role": "image",
+    "name": "Sello Igualando RD Oro",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 859
+  },
+  {
+    "role": "image",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 862
+  },
+  {
+    "role": "textbox",
+    "name": "Nombre *",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 47
+  },
+  {
+    "role": "textbox",
+    "name": "Correo Electrónico *",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 48
+  },
+  {
+    "role": "textbox",
+    "name": "Mensaje *",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 49
+  },
+  {
+    "role": "button",
+    "name": "BORRAR",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 753
+  },
+  {
+    "role": "button",
+    "name": "Enviar",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 756
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-14T16:02:59.110Z",
+  "notes": [],
+  "home": {
+    "skipLink": {
+      "exists": true,
+      "text": "Ir al contenido principal",
+      "href": "#informacion",
+      "targetExists": true,
+      "targetTag": "main",
+      "targetId": "informacion"
+    },
+    "firstTab": {
+      "tag": "div",
+      "text": "",
+      "href": null,
+      "class": "uai userway_dark"
+    },
+    "menuKeyboard": {
+      "before": "false",
+      "afterEnter": "false",
+      "afterEscape": "false",
+      "url": "https://www.dgcp.gob.do/sobre-nosotros/"
+    },
+    "carousel": {
+      "beforePause": {
+        "count": 0,
+        "active": -1,
+        "classes": []
+      },
+      "afterPause": {
+        "count": 0,
+        "active": -1,
+        "classes": []
+      },
+      "pauseControlName": "Reproducir o pausar animaciones",
+      "pauseTitle": "Reproducir animaciones",
+      "keyboardActivated": true
+    },
+    "audio": {
+      "count": 0,
+      "note": "No apareció en esta carga; véase DOM renderizado inicio.html de la ejecución axe previa."
+    }
+  }
+}

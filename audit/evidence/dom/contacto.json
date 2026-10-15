@@ -1,0 +1,4713 @@
+{
+  "dom": {
+    "url": "https://www.dgcp.gob.do/contacto/",
+    "title": "Contacto » Dirección General de Contrataciones PúblicasDirección General de Contrataciones Públicas",
+    "htmlLang": "es",
+    "landmarks": [
+      {
+        "selector": "#userwayLstIcon",
+        "tag": "div",
+        "role": "button",
+        "name": "Menú de traducciones"
+      },
+      {
+        "selector": "#userwayAccessibilityIcon",
+        "tag": "div",
+        "role": "button",
+        "name": "Menú de Accesibilidad"
+      },
+      {
+        "selector": "div.uwy.userway_p5:nth-of-type(1) > div.userway_buttons_wrapper > div.uai.userway_dark:nth-of-type(2) > span.uiiw:nth-of-type(1) > img.ui_w",
+        "tag": "img",
+        "role": "presentation",
+        "name": ""
+      },
+      {
+        "selector": "html > body > header.topbar.d-print-none",
+        "tag": "header",
+        "role": null,
+        "name": "SISTEMA ELECTRÓNICO Buscar ES Inicio Nosotros Servicios Transparencia Noticias Sistema de Información Interés MIPYMEs Contactos"
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.topbar-cont.d-none > div.topbar-right > div.menu-grid.me-1:nth-of-type(1) > a.menu-item.dropdown-toggle",
+        "tag": "a",
+        "role": "button",
+        "name": "Enlaces de interés"
+      },
+      {
+        "selector": "div.topbar-right > div.menu-grid.me-1:nth-of-type(1) > ul.dropdown-menu.collapsed > div.menu-grid-title:nth-of-type(1) > a",
+        "tag": "a",
+        "role": "button",
+        "name": ""
+      },
+      {
+        "selector": "div.topbar-right > div.menu-grid.me-1:nth-of-type(1) > ul.dropdown-menu.collapsed > div.menu-grid-content.pt-3:nth-of-type(2) > a",
+        "tag": "a",
+        "role": "button",
+        "name": "Portales externos"
+      },
+      {
+        "selector": "div.topbar-right > div.menu-grid.me-1:nth-of-type(1) > ul.dropdown-menu.collapsed > div.menu-grid-content.pt-0:nth-of-type(3) > a",
+        "tag": "a",
+        "role": "button",
+        "name": "Internos"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.px-0.d-block:nth-of-type(1) > div.menu-grid.me-1 > a.menu-item.dropdown-toggle",
+        "tag": "a",
+        "role": "button",
+        "name": "Enlaces de interés"
+      },
+      {
+        "selector": "div.px-0.d-block:nth-of-type(1) > div.menu-grid.me-1 > ul.dropdown-menu.collapsed > div.menu-grid-title:nth-of-type(1) > a",
+        "tag": "a",
+        "role": "button",
+        "name": ""
+      },
+      {
+        "selector": "div.px-0.d-block:nth-of-type(1) > div.menu-grid.me-1 > ul.dropdown-menu.collapsed > div.menu-grid-content.pt-3:nth-of-type(2) > a",
+        "tag": "a",
+        "role": "button",
+        "name": "Portales externos"
+      },
+      {
+        "selector": "div.px-0.d-block:nth-of-type(1) > div.menu-grid.me-1 > ul.dropdown-menu.collapsed > div.menu-grid-content.pt-0:nth-of-type(3) > a",
+        "tag": "a",
+        "role": "button",
+        "name": "Internos"
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > a.menu-item.menu-item-type-post_type",
+        "tag": "a",
+        "role": "button",
+        "name": "Nosotros"
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > a.menu-item.menu-item-type-post_type",
+        "tag": "a",
+        "role": "button",
+        "name": "Servicios"
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > a.menu-item.menu-item-type-custom",
+        "tag": "a",
+        "role": "button",
+        "name": "Sistema de Información"
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > a.menu-item.menu-item-type-custom",
+        "tag": "a",
+        "role": "button",
+        "name": "Interés"
+      },
+      {
+        "selector": "#informacion",
+        "tag": "main",
+        "role": null,
+        "name": "INICIO » CONTACTO CONTACTO Asistencia Técnica Teléfono: 809-682-7407 – Opción 1 Correo electrónico: asistenciatecnica@dgcp.gob.do Santo Domingo Dirección: Calle"
+      },
+      {
+        "selector": "html > body > main.main > nav.main-breadcrumb.d-print-none",
+        "tag": "nav",
+        "role": null,
+        "name": "breadcrumb"
+      },
+      {
+        "selector": "div.col-md-12 > div > div.wpcf7.js:nth-of-type(4) > div.screen-reader-response > p",
+        "tag": "p",
+        "role": "status",
+        "name": ""
+      },
+      {
+        "selector": "html > body > footer.footer-light.footer",
+        "tag": "footer",
+        "role": null,
+        "name": "CONÓCENOS Dirección General de Contrataciones Públicas (DGCP) CONTÁCTANOS Contacto Tel: (809) 682-7407 | (829) 681-7407 direcciongeneral@dgcp.gob.do BÚSCANOS Ca"
+      }
+    ],
+    "headings": [
+      {
+        "selector": "div.topbar-right > div.menu-grid.me-1:nth-of-type(1) > ul.dropdown-menu.collapsed > div.menu-grid-title:nth-of-type(1) > h3",
+        "level": "3",
+        "text": "Enlaces de interés",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid.me-1:nth-of-type(1) > ul.dropdown-menu.collapsed > div.menu-grid-content.pt-3:nth-of-type(2) > a > h4",
+        "level": "4",
+        "text": "Portales externos",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a > h5",
+        "level": "5",
+        "text": "Servicios Gob",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a > h5",
+        "level": "5",
+        "text": "9 1 1",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a > h5",
+        "level": "5",
+        "text": "3-1-1",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a > h5",
+        "level": "5",
+        "text": "Becas tu Futuro",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a > h5",
+        "level": "5",
+        "text": "Observatorio MAP",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a > h5",
+        "level": "5",
+        "text": "Dominicana GOB",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid.me-1:nth-of-type(1) > ul.dropdown-menu.collapsed > div.menu-grid-content.pt-0:nth-of-type(3) > a > h4",
+        "level": "4",
+        "text": "Internos",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a > h5",
+        "level": "5",
+        "text": "Proveedores",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a > h5",
+        "level": "5",
+        "text": "MiPymes",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a > h5",
+        "level": "5",
+        "text": "Mujer",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a > h5",
+        "level": "5",
+        "text": "Ciudadanía",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a > h5",
+        "level": "5",
+        "text": "Participación Social",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a > h5",
+        "level": "5",
+        "text": "Proética",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(7) > a > h5",
+        "level": "5",
+        "text": "Ruedas de Negocios",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(8) > a > h5",
+        "level": "5",
+        "text": "Convenios",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(9) > a > h5",
+        "level": "5",
+        "text": "Comunidad de Compras",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(10) > a > h5",
+        "level": "5",
+        "text": "Foro",
+        "hidden": true
+      },
+      {
+        "selector": "div.px-0.d-block:nth-of-type(1) > div.menu-grid.me-1 > ul.dropdown-menu.collapsed > div.menu-grid-title:nth-of-type(1) > h3",
+        "level": "3",
+        "text": "Enlaces de interés",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid.me-1 > ul.dropdown-menu.collapsed > div.menu-grid-content.pt-3:nth-of-type(2) > a > h4",
+        "level": "4",
+        "text": "Portales externos",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a > h5",
+        "level": "5",
+        "text": "Servicios Gob",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a > h5",
+        "level": "5",
+        "text": "9 1 1",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a > h5",
+        "level": "5",
+        "text": "3-1-1",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a > h5",
+        "level": "5",
+        "text": "Becas tu Futuro",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a > h5",
+        "level": "5",
+        "text": "Observatorio MAP",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a > h5",
+        "level": "5",
+        "text": "Dominicana GOB",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid.me-1 > ul.dropdown-menu.collapsed > div.menu-grid-content.pt-0:nth-of-type(3) > a > h4",
+        "level": "4",
+        "text": "Internos",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a > h5",
+        "level": "5",
+        "text": "Proveedores",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a > h5",
+        "level": "5",
+        "text": "MiPymes",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a > h5",
+        "level": "5",
+        "text": "Mujer",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a > h5",
+        "level": "5",
+        "text": "Ciudadanía",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a > h5",
+        "level": "5",
+        "text": "Participación Social",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a > h5",
+        "level": "5",
+        "text": "Proética",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(7) > a > h5",
+        "level": "5",
+        "text": "Ruedas de Negocios",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(8) > a > h5",
+        "level": "5",
+        "text": "Convenios",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(9) > a > h5",
+        "level": "5",
+        "text": "Comunidad de Compras",
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(10) > a > h5",
+        "level": "5",
+        "text": "Foro",
+        "hidden": true
+      },
+      {
+        "selector": "div.text > div.container > div.row > div.col > h2.text-uppercase.text-white",
+        "level": "2",
+        "text": "CONTACTO",
+        "hidden": false
+      },
+      {
+        "selector": "div.row.justify-content-center > div.col-md-12 > div > div.content-right.mb-4:nth-of-type(1) > h4.text-dark",
+        "level": "4",
+        "text": "Asistencia Técnica",
+        "hidden": false
+      },
+      {
+        "selector": "div.row.justify-content-center > div.col-md-12 > div > div.content-right.mb-4:nth-of-type(2) > h4.text-dark",
+        "level": "4",
+        "text": "Santo Domingo",
+        "hidden": false
+      },
+      {
+        "selector": "div.row.justify-content-center > div.col-md-12 > div > div.content-right.mb-4:nth-of-type(3) > h4.text-dark",
+        "level": "4",
+        "text": "Contacto Virtual",
+        "hidden": false
+      },
+      {
+        "selector": "div.container.py-3:nth-of-type(2) > div.row.justify-content-center > div.col-md-12 > div > h3.text-title.text-primary",
+        "level": "3",
+        "text": "• Formulario de Contacto •",
+        "hidden": false
+      },
+      {
+        "selector": "div.container.py-3:nth-of-type(2) > div.row.justify-content-center > div.col-md-12 > div > h4.text-left.d-print-none",
+        "level": "4",
+        "text": "Compartir",
+        "hidden": false
+      },
+      {
+        "selector": "html > body > div.container.my-4:nth-of-type(9) > h4.text-red.py-2",
+        "level": "4",
+        "text": "ALIANZAS INSTITUCIONALES",
+        "hidden": false
+      },
+      {
+        "selector": "footer.footer-light.footer > div.footer-nortic.container:nth-of-type(3) > div.accordion.accordion-flush > div.accordion-item.border-0 > h5.text-primary.text-uppercase",
+        "level": "5",
+        "text": "CERTIFICACIONES OBTENIDAS",
+        "hidden": false
+      }
+    ],
+    "images": [
+      {
+        "selector": "div.uwy.userway_p5:nth-of-type(1) > div.userway_buttons_wrapper > div.ulsti.hidden:nth-of-type(1) > div.ups > img.si_w",
+        "src": "https://cdn.userway.org/widgetapp/images/spin_wh.svg",
+        "hasAlt": true,
+        "alt": "Spinner: White decorative",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": false,
+        "width": 40,
+        "height": 40,
+        "hidden": true
+      },
+      {
+        "selector": "div.uwy.userway_p5:nth-of-type(1) > div.userway_buttons_wrapper > div.uai.userway_dark:nth-of-type(2) > span.uiiw:nth-of-type(1) > img.ui_w",
+        "src": "https://cdn.userway.org/widgetapp/images/wheel_right_wh.svg",
+        "hasAlt": true,
+        "alt": "",
+        "title": null,
+        "role": "presentation",
+        "ariaLabel": null,
+        "linked": false,
+        "width": 60,
+        "height": 60,
+        "hidden": false
+      },
+      {
+        "selector": "div.uwy.userway_p5:nth-of-type(1) > div.userway_buttons_wrapper > div.uai.userway_dark:nth-of-type(2) > div.ups > img.si_w",
+        "src": "https://cdn.userway.org/widgetapp/images/spin_wh.svg",
+        "hasAlt": true,
+        "alt": "Spinner: White decorative",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": false,
+        "width": 40,
+        "height": 40,
+        "hidden": true
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.topbar-cont.d-none > a.logo > div.logo-icon.py-2 > img",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/logo_dgcp.png",
+        "hasAlt": true,
+        "alt": "DGCP",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 840,
+        "height": 140,
+        "hidden": false
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/cupula.svg",
+        "hasAlt": true,
+        "alt": "Servicios Gob",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 156,
+        "height": 150,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/911.svg",
+        "hasAlt": true,
+        "alt": "911",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 241,
+        "height": 150,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/311.png",
+        "hasAlt": true,
+        "alt": "311",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 296,
+        "height": 232,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/becas.svg",
+        "hasAlt": true,
+        "alt": "Becas tu Futuro",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 113,
+        "height": 150,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/observatorio.svg",
+        "hasAlt": true,
+        "alt": "Observatorio MAP",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 148,
+        "height": 150,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/cupula.svg",
+        "hasAlt": true,
+        "alt": "Dominicana GOB",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 156,
+        "height": 150,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/proveedores-150x150.png",
+        "hasAlt": true,
+        "alt": "Proveedores",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/mipymes-150x150.png",
+        "hasAlt": true,
+        "alt": "Mipymes",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/mujer-150x150.png",
+        "hasAlt": true,
+        "alt": "Mujer",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/ciudadania-2-150x150.png",
+        "hasAlt": true,
+        "alt": "Ciudadanía",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/icono_participacion_social-150x150.png",
+        "hasAlt": true,
+        "alt": "Participación Social",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/Icono-Etica-para-proveedores0-150x150.png",
+        "hasAlt": true,
+        "alt": "Icono ética para proveedores",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(7) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/iconos-06-150x150.png",
+        "hasAlt": true,
+        "alt": "Ruedas de Negocios",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(8) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/convenios-150x150.png",
+        "hasAlt": true,
+        "alt": "Convenios",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(9) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/icono_comunidad_de_compras-150x150.png",
+        "hasAlt": true,
+        "alt": "Comunidad de Compras",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(10) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/icono_foro-150x150.png",
+        "hasAlt": true,
+        "alt": "Foro",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.topbar-cont.d-none > div.topbar-right > div.lang-select.dropdown-simple:nth-of-type(2) > a > img",
+        "src": "https://flagcdn.com/do.svg",
+        "hasAlt": false,
+        "alt": null,
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 900,
+        "height": 600,
+        "hidden": false
+      },
+      {
+        "selector": "div.topbar-right > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(1) > img",
+        "src": "https://flagcdn.com/do.svg",
+        "hasAlt": false,
+        "alt": null,
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 900,
+        "height": 600,
+        "hidden": true
+      },
+      {
+        "selector": "div.topbar-right > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(2) > img",
+        "src": "https://flagcdn.com/us.svg",
+        "hasAlt": false,
+        "alt": null,
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 1235,
+        "height": 650,
+        "hidden": true
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.main-menu-cont > a.logo.d-block > div.logo-icon.py-2 > img",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/logo_dgcp.png",
+        "hasAlt": true,
+        "alt": "DGCP",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 840,
+        "height": 140,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/cupula.svg",
+        "hasAlt": true,
+        "alt": "Servicios Gob",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 156,
+        "height": 150,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/911.svg",
+        "hasAlt": true,
+        "alt": "911",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 241,
+        "height": 150,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/311.png",
+        "hasAlt": true,
+        "alt": "311",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 296,
+        "height": 232,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/becas.svg",
+        "hasAlt": true,
+        "alt": "Becas tu Futuro",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 113,
+        "height": 150,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/observatorio.svg",
+        "hasAlt": true,
+        "alt": "Observatorio MAP",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 148,
+        "height": 150,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/cupula.svg",
+        "hasAlt": true,
+        "alt": "Dominicana GOB",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 156,
+        "height": 150,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/proveedores-150x150.png",
+        "hasAlt": true,
+        "alt": "Proveedores",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/mipymes-150x150.png",
+        "hasAlt": true,
+        "alt": "Mipymes",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/mujer-150x150.png",
+        "hasAlt": true,
+        "alt": "Mujer",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/ciudadania-2-150x150.png",
+        "hasAlt": true,
+        "alt": "Ciudadanía",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/icono_participacion_social-150x150.png",
+        "hasAlt": true,
+        "alt": "Participación Social",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/Icono-Etica-para-proveedores0-150x150.png",
+        "hasAlt": true,
+        "alt": "Icono ética para proveedores",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(7) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/iconos-06-150x150.png",
+        "hasAlt": true,
+        "alt": "Ruedas de Negocios",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(8) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/convenios-150x150.png",
+        "hasAlt": true,
+        "alt": "Convenios",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(9) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/icono_comunidad_de_compras-150x150.png",
+        "hasAlt": true,
+        "alt": "Comunidad de Compras",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(10) > a > img.img-fluid.wp-post-image",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/interes/icono_foro-150x150.png",
+        "hasAlt": true,
+        "alt": "Foro",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.topbar-right:nth-of-type(2) > div.lang-select.dropdown-simple:nth-of-type(2) > a > img",
+        "src": "https://flagcdn.com/do.svg",
+        "hasAlt": false,
+        "alt": null,
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 900,
+        "height": 600,
+        "hidden": true
+      },
+      {
+        "selector": "div.topbar-right:nth-of-type(2) > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(1) > img",
+        "src": "https://flagcdn.com/do.svg",
+        "hasAlt": false,
+        "alt": null,
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 900,
+        "height": 600,
+        "hidden": true
+      },
+      {
+        "selector": "div.topbar-right:nth-of-type(2) > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(2) > img",
+        "src": "https://flagcdn.com/us.svg",
+        "hasAlt": false,
+        "alt": null,
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 1235,
+        "height": 650,
+        "hidden": true
+      },
+      {
+        "selector": "div:nth-of-type(3) > div.skiptranslate.goog-te-gadget > span > a.VIpgJd-ZVi9od-l4eHX-hSRGPd > img",
+        "src": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
+        "hasAlt": true,
+        "alt": "Google Traductor",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 42,
+        "height": 16,
+        "hidden": true
+      },
+      {
+        "selector": "body > main.main > div.main.servicios:nth-of-type(1) > div.header-img.mb-5 > img",
+        "src": "https://www.dgcp.gob.do/wp-content/uploads/noticias/Fachada-DGCP.jpg",
+        "hasAlt": false,
+        "alt": null,
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": false,
+        "width": 1920,
+        "height": 1280,
+        "hidden": false
+      },
+      {
+        "selector": "div.container.my-4:nth-of-type(9) > div.row.row-cols-2 > div.col:nth-of-type(1) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/logo_ricg_pie_pagina_dgcp.jpg",
+        "hasAlt": true,
+        "alt": "RICG",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 220,
+        "height": 120,
+        "hidden": false
+      },
+      {
+        "selector": "div.container.my-4:nth-of-type(9) > div.row.row-cols-2 > div.col:nth-of-type(2) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/logo_opencontracting_pie_pagina_dgcp.jpg",
+        "hasAlt": true,
+        "alt": "Open Contracting",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 220,
+        "height": 120,
+        "hidden": false
+      },
+      {
+        "selector": "div.container.my-4:nth-of-type(9) > div.row.row-cols-2 > div.col:nth-of-type(3) > a > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/logo_cost_pie_pagina_dgcp.jpg",
+        "hasAlt": true,
+        "alt": "CoST Iniciativa de transparencia en Infraestructura",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 220,
+        "height": 120,
+        "hidden": false
+      },
+      {
+        "selector": "div.col-lg-3.col-12:nth-of-type(1) > div.logo-cont.py-3 > div.row.g-2 > div.col-5.align-self-end:nth-of-type(1) > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/isotipo-dgcp.svg",
+        "hasAlt": true,
+        "alt": "Isotipo DGCP",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": false,
+        "width": 241,
+        "height": 150,
+        "hidden": false
+      },
+      {
+        "selector": "div.col-lg-3.col-12:nth-of-type(1) > div.logo-cont.py-3 > div.row.g-2 > div.col.align-self-end:nth-of-type(2) > img.img-fluid",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/logo-gob.svg",
+        "hasAlt": true,
+        "alt": "Logo GOB",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": false,
+        "width": 300,
+        "height": 125,
+        "hidden": false
+      },
+      {
+        "selector": "div.certifications > div.nortic-seals.row > div.col:nth-of-type(7) > a.stamp.stack-top > img.pt-md-1",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/igualando-rd-oro.png",
+        "hasAlt": true,
+        "alt": "Sello Igualando RD Oro",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": false
+      },
+      {
+        "selector": "div.certifications > div.nortic-seals.row > div.col:nth-of-type(8) > a.stamp.stack-top > img.pt-md-2",
+        "src": "https://www.dgcp.gob.do/wp-content/themes/dgcp/img/certificacion-nordom.png",
+        "hasAlt": true,
+        "alt": "NORDOM ISO 37001: 2016",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": true,
+        "width": 0,
+        "height": 0,
+        "hidden": false
+      },
+      {
+        "selector": "body > div.VIpgJd-yAWNEb-L7lbkb.skiptranslate:nth-of-type(10) > div.VIpgJd-yAWNEb-hvhgNd > div.VIpgJd-yAWNEb-hvhgNd-Ud7fr:nth-of-type(1) > img",
+        "src": "https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg",
+        "hasAlt": true,
+        "alt": "",
+        "title": null,
+        "role": null,
+        "ariaLabel": null,
+        "linked": false,
+        "width": 24,
+        "height": 24,
+        "hidden": true
+      }
+    ],
+    "links": [
+      {
+        "selector": "html > body > a.skip-link:nth-of-type(1)",
+        "href": "https://www.dgcp.gob.do/contacto/#informacion",
+        "text": "Ir al contenido principal",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Ir al contenido principal",
+        "hidden": false
+      },
+      {
+        "selector": "#btn1",
+        "href": "https://www.dgcp.gob.do/contacto/#body",
+        "text": "Pausar animaciones",
+        "ariaLabel": "Reproducir o pausar animaciones",
+        "title": "Pausar Animaciones",
+        "accessibleNameHint": "Reproducir o pausar animaciones",
+        "hidden": false
+      },
+      {
+        "selector": "body > header.topbar.d-print-none > div.container:nth-of-type(1) > div.topbar-cont.d-none > a.logo",
+        "href": "https://www.dgcp.gob.do/",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": false
+      },
+      {
+        "selector": "header.topbar.d-print-none > div.container:nth-of-type(1) > div.topbar-cont.d-none > div.topbar-right > a",
+        "href": "https://secp.gob.do/",
+        "text": "SISTEMA ELECTRÓNICO",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "SISTEMA ELECTRÓNICO",
+        "hidden": false
+      },
+      {
+        "selector": "div.topbar-right > div.menu-grid.me-1:nth-of-type(1) > ul.dropdown-menu.collapsed > div.menu-grid-title:nth-of-type(1) > a",
+        "href": "https://www.dgcp.gob.do/contacto/#collapseMain",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a",
+        "href": "http://www.gob.do/",
+        "text": "Servicios Gob",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Servicios Gob",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a",
+        "href": "http://www.911.gob.do/",
+        "text": "9 1 1",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "9 1 1",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a",
+        "href": "http://www.311.gob.do/",
+        "text": "3-1-1",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "3-1-1",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a",
+        "href": "http://www.becas.gob.do/",
+        "text": "Becas tu Futuro",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Becas tu Futuro",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a",
+        "href": "http://www.observatorioserviciospublicos.gob.do/",
+        "text": "Observatorio MAP",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Observatorio MAP",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a",
+        "href": "http://www.dominicana.gob.do/",
+        "text": "Dominicana GOB",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Dominicana GOB",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a",
+        "href": "https://www.dgcp.gob.do/servicios/registro-de-proveedores/",
+        "text": "Proveedores",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Proveedores",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a",
+        "href": "https://www.dgcp.gob.do/mipymes",
+        "text": "MiPymes",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "MiPymes",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a",
+        "href": "https://www.dgcp.gob.do/mujer/",
+        "text": "Mujer",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Mujer",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a",
+        "href": "https://www.dgcp.gob.do/ciudadania/",
+        "text": "Ciudadanía",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Ciudadanía",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a",
+        "href": "https://www.dgcp.gob.do/de-interes/participacion-social/",
+        "text": "Participación Social",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Participación Social",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a",
+        "href": "https://proetica.gob.do/",
+        "text": "Proética",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Proética",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(7) > a",
+        "href": "https://www.dgcp.gob.do/interes/ruedas-de-negocios/",
+        "text": "Ruedas de Negocios",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Ruedas de Negocios",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(8) > a",
+        "href": "https://www.dgcp.gob.do/convenios/",
+        "text": "Convenios",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Convenios",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(9) > a",
+        "href": "https://www.dgcp.gob.do/de-interes/comunidad-de-compras/",
+        "text": "Comunidad de Compras",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Comunidad de Compras",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(10) > a",
+        "href": "https://www.dgcp.gob.do/de-interes/foro/",
+        "text": "Foro",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Foro",
+        "hidden": true
+      },
+      {
+        "selector": "#current-lang",
+        "href": "https://www.dgcp.gob.do/contacto/#",
+        "text": "ES",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "ES",
+        "hidden": false
+      },
+      {
+        "selector": "div.topbar-cont.d-none > div.topbar-right > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(1)",
+        "href": "https://www.dgcp.gob.do/contacto/#",
+        "text": "Español",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Español",
+        "hidden": true
+      },
+      {
+        "selector": "div.topbar-cont.d-none > div.topbar-right > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(2)",
+        "href": "https://www.dgcp.gob.do/contacto/#",
+        "text": "English",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "English",
+        "hidden": true
+      },
+      {
+        "selector": "header.topbar.d-print-none > div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > a.logo.d-block",
+        "href": "https://www.dgcp.gob.do/",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": true
+      },
+      {
+        "selector": "div.px-0.d-block:nth-of-type(1) > div.menu-grid.me-1 > ul.dropdown-menu.collapsed > div.menu-grid-title:nth-of-type(1) > a",
+        "href": "https://www.dgcp.gob.do/contacto/#collapseMain",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a",
+        "href": "http://www.gob.do/",
+        "text": "Servicios Gob",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Servicios Gob",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a",
+        "href": "http://www.911.gob.do/",
+        "text": "9 1 1",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "9 1 1",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a",
+        "href": "http://www.311.gob.do/",
+        "text": "3-1-1",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "3-1-1",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a",
+        "href": "http://www.becas.gob.do/",
+        "text": "Becas tu Futuro",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Becas tu Futuro",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a",
+        "href": "http://www.observatorioserviciospublicos.gob.do/",
+        "text": "Observatorio MAP",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Observatorio MAP",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a",
+        "href": "http://www.dominicana.gob.do/",
+        "text": "Dominicana GOB",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Dominicana GOB",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a",
+        "href": "https://www.dgcp.gob.do/servicios/registro-de-proveedores/",
+        "text": "Proveedores",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Proveedores",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a",
+        "href": "https://www.dgcp.gob.do/mipymes",
+        "text": "MiPymes",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "MiPymes",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a",
+        "href": "https://www.dgcp.gob.do/mujer/",
+        "text": "Mujer",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Mujer",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a",
+        "href": "https://www.dgcp.gob.do/ciudadania/",
+        "text": "Ciudadanía",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Ciudadanía",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a",
+        "href": "https://www.dgcp.gob.do/de-interes/participacion-social/",
+        "text": "Participación Social",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Participación Social",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a",
+        "href": "https://proetica.gob.do/",
+        "text": "Proética",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Proética",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(7) > a",
+        "href": "https://www.dgcp.gob.do/interes/ruedas-de-negocios/",
+        "text": "Ruedas de Negocios",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Ruedas de Negocios",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(8) > a",
+        "href": "https://www.dgcp.gob.do/convenios/",
+        "text": "Convenios",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Convenios",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(9) > a",
+        "href": "https://www.dgcp.gob.do/de-interes/comunidad-de-compras/",
+        "text": "Comunidad de Compras",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Comunidad de Compras",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(10) > a",
+        "href": "https://www.dgcp.gob.do/de-interes/foro/",
+        "text": "Foro",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Foro",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.menu-item-type-post_type:nth-of-type(1)",
+        "href": "https://www.dgcp.gob.do/",
+        "text": "Inicio",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Inicio",
+        "hidden": false
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > a.menu-item.menu-item-type-post_type",
+        "href": "https://www.dgcp.gob.do/sobre-nosotros/",
+        "text": "Nosotros",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Nosotros",
+        "hidden": false
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(1)",
+        "href": "https://www.dgcp.gob.do/sobre-nosotros/quienes-somos/",
+        "text": "¿Quiénes Somos?",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "¿Quiénes Somos?",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(2)",
+        "href": "https://www.dgcp.gob.do/sobre-nosotros/historia/",
+        "text": "Historia",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Historia",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(3)",
+        "href": "https://www.dgcp.gob.do/sobre-nosotros/organigrama/",
+        "text": "Organigrama",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Organigrama",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(4)",
+        "href": "https://www.dgcp.gob.do/sobre-nosotros/despacho/",
+        "text": "Despacho del Director",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Despacho del Director",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(5)",
+        "href": "https://www.dgcp.gob.do/sobre-nosotros/marco-legal/",
+        "text": "Marco Legal",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Marco Legal",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(6)",
+        "href": "https://www.dgcp.gob.do/sobre-nosotros/planificacion-y-desarrollo/gestion-de-la-calidad/",
+        "text": "Gestión de la Calidad",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Gestión de la Calidad",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(7)",
+        "href": "https://www.dgcp.gob.do/new_dgcp/documentos/planificacion_y_desarrollo/gestion_de_calidad/CARTA%20COMPROMISO%202024%2011x8.5.pdf",
+        "text": "Carta Compromiso",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Carta Compromiso",
+        "hidden": true
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > a.menu-item.menu-item-type-post_type",
+        "href": "https://www.dgcp.gob.do/servicios/",
+        "text": "Servicios",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Servicios",
+        "hidden": false
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(1)",
+        "href": "https://www.dgcp.gob.do/servicios/registro-de-proveedores/",
+        "text": "Inscripción en el Registro de Proveedores del Estado (RPE)",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Inscripción en el Registro de Proveedores del Estado (RPE)",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(2)",
+        "href": "https://www.dgcp.gob.do/servicios/actualizacion-registro-de-proveedores/",
+        "text": "Actualización del Registro de Proveedores del Estado (RPE)",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Actualización del Registro de Proveedores del Estado (RPE)",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(3)",
+        "href": "https://www.dgcp.gob.do/servicios/vinculacion-de-usuario/",
+        "text": "Vinculación de usuario en el Sistema Electrónico de Contrataciones Públicas (Membresía)",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Vinculación de usuario en el Sistema Electrónico de Contrataciones Públicas (Membresía)",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(4)",
+        "href": "https://www.dgcp.gob.do/servicios/capacitaciones/",
+        "text": "Capacitaciones",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Capacitaciones",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(5)",
+        "href": "https://www.dgcp.gob.do/servicios/creacion-de-unidad-de-compra/",
+        "text": "Creación de unidad de compra",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Creación de unidad de compra",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.menu-item-type-custom:nth-of-type(2)",
+        "href": "https://www.dgcp.gob.do/transparencia/",
+        "text": "Transparencia",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Transparencia",
+        "hidden": false
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.menu-item-type-post_type:nth-of-type(3)",
+        "href": "https://www.dgcp.gob.do/noticias/",
+        "text": "Noticias",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Noticias",
+        "hidden": false
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > a.menu-item.menu-item-type-custom",
+        "href": "http://datosabiertos.dgcp.gob.do/",
+        "text": "Sistema de Información",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Sistema de Información",
+        "hidden": false
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(1)",
+        "href": "https://datosabiertos.dgcp.gob.do/",
+        "text": "Sistema de Información de Contrataciones Públicas (SICP)",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Sistema de Información de Contrataciones Públicas (SICP)",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(2)",
+        "href": "https://datosabiertos.dgcp.gob.do/datos-abiertos",
+        "text": "Datos abiertos",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Datos abiertos",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(3)",
+        "href": "https://www.dgcp.gob.do/siscompras/",
+        "text": "Siscompras",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Siscompras",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(4)",
+        "href": "https://datosabiertos.dgcp.gob.do/catalogobys/",
+        "text": "Catálogo de Bienes y Servicios",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Catálogo de Bienes y Servicios",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(5)",
+        "href": "https://infopago.dgcp.gob.do/",
+        "text": "InfoPago",
+        "ariaLabel": null,
+        "title": "InfoPago – Transparencia y trazabilidad en los pagos",
+        "accessibleNameHint": "InfoPago – Transparencia y trazabilidad en los pagos",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(6)",
+        "href": "https://monitoreopreventivo.dgcp.gob.do/denuncia",
+        "text": "SISDenuncia",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "SISDenuncia",
+        "hidden": true
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > a.menu-item.menu-item-type-custom",
+        "href": "https://www.dgcp.gob.do/contacto/#",
+        "text": "Interés",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Interés",
+        "hidden": false
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(1)",
+        "href": "https://www.dgcp.gob.do/new_dgcp/documentos/secp/Resumen_Mejoras_SECP_Despliegue%2031.10.2025.pdf",
+        "text": "Mejoras SECP",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Mejoras SECP",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(2)",
+        "href": "https://www.dgcp.gob.do/new_dgcp/documentos/ley/",
+        "text": "Novedades Ley 47-25",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Novedades Ley 47-25",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(3)",
+        "href": "https://datosabiertos.dgcp.gob.do/datos-abiertos/preguntas-frecuentes",
+        "text": "Preguntas Ley 47-25",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Preguntas Ley 47-25",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(4)",
+        "href": "https://www.dgcp.gob.do/solicitar/",
+        "text": "Biblioteca Virtual",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Biblioteca Virtual",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(1)",
+        "href": "https://www.dgcp.gob.do/biblioteca/",
+        "text": "Solicitar acceso",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Solicitar acceso",
+        "hidden": true
+      },
+      {
+        "selector": "div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(2)",
+        "href": "https://elibro.net/es/lc/dgcp/login_usuario/",
+        "text": "Acceder",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Acceder",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(5)",
+        "href": "https://consultaspublicas.dgcp.gob.do/",
+        "text": "Consultas Públicas",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Consultas Públicas",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(6)",
+        "href": "http://comprasverdes.gob.do/",
+        "text": "Compras Verdes",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Compras Verdes",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(7)",
+        "href": "https://campusvirtual.dgcp.gob.do/",
+        "text": "Campus Virtual",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Campus Virtual",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(8)",
+        "href": "https://www.dgcp.gob.do/mujer/",
+        "text": "Mujeres en el SNCCP",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Mujeres en el SNCCP",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(9)",
+        "href": "https://consultaspublicas.dgcp.gob.do/",
+        "text": "Consultas Públicas",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Consultas Públicas",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(10)",
+        "href": "https://www.dgcp.gob.do/instituciones-implementadas/",
+        "text": "Instituciones Implementadas en el SECP",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Instituciones Implementadas en el SECP",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(11)",
+        "href": "https://www.dgcp.gob.do/interes/avisos/",
+        "text": "Avisos",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Avisos",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(12)",
+        "href": "https://www.dgcp.gob.do/publicacion/",
+        "text": "Publicaciones",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Publicaciones",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(13)",
+        "href": "https://www.dgcp.gob.do/interes/foro/",
+        "text": "Foro",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Foro",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(14)",
+        "href": "https://www.dgcp.gob.do/interes/procesos-publicados-en-la-prensa/",
+        "text": "Procesos publicados en la prensa",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Procesos publicados en la prensa",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(15)",
+        "href": "https://www.dgcp.gob.do/wp-content/uploads/2022/Material%20sobre%20Colusio%CC%81n%20en%20las%20Contrataciones%20Pu%CC%81blicas%20para%20web%20DGCP%20ma.pdf",
+        "text": "Colusión en contrataciones públicas",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Colusión en contrataciones públicas",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(16)",
+        "href": "https://www.dgcp.gob.do/wp-content/uploads/page/guia-transversalizacion.pdf",
+        "text": "Guía para la Transversalización del Enfoque de Género",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Guía para la Transversalización del Enfoque de Género",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(17)",
+        "href": "https://www.dgcp.gob.do/procedimiento-sobre-control-de-gasto-y-pago-a-proveedores/",
+        "text": "Procedimiento sobre control de gasto y pago a proveedores",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Procedimiento sobre control de gasto y pago a proveedores",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(18)",
+        "href": "https://www.dgcp.gob.do/covid-19/",
+        "text": "COVID-19",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "COVID-19",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(19)",
+        "href": "https://acceso.comprasdominicana.gob.do/compras/seguridad/logon/edicionLogon.jsp",
+        "text": "Compras Dominicanas",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Compras Dominicanas",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(20)",
+        "href": "https://www.dgcp.gob.do/interes/consultorias-e-informes/",
+        "text": "Consultorías e Informes",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Consultorías e Informes",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.menu-item-type-post_type:nth-of-type(4)",
+        "href": "https://www.dgcp.gob.do/mipymes/",
+        "text": "MIPYMEs",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "MIPYMEs",
+        "hidden": false
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.d-none:nth-of-type(5)",
+        "href": "https://comunidad.comprasdominicana.gob.do/STS/DGCP/Login.aspx",
+        "text": "Sistema Electrónico",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Sistema Electrónico",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.active:nth-of-type(6)",
+        "href": "https://www.dgcp.gob.do/contacto/",
+        "text": "Contactos",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Contactos",
+        "hidden": false
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.d-block:nth-of-type(7)",
+        "href": "https://www.dgcp.gob.do/terminos-de-uso/",
+        "text": "Términos de Uso",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Términos de Uso",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.d-block:nth-of-type(8)",
+        "href": "https://www.dgcp.gob.do/politicas-de-privacidad/",
+        "text": "Políticas de Privacidad",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Políticas de Privacidad",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.d-block:nth-of-type(9)",
+        "href": "https://www.dgcp.gob.do/preguntas-frecuentes/",
+        "text": "Preguntas Frecuentes",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Preguntas Frecuentes",
+        "hidden": true
+      },
+      {
+        "selector": "#current-lang",
+        "href": "https://www.dgcp.gob.do/contacto/#",
+        "text": "ES",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "ES",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.topbar-right:nth-of-type(2) > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(1)",
+        "href": "https://www.dgcp.gob.do/contacto/#",
+        "text": "Español",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Español",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.topbar-right:nth-of-type(2) > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(2)",
+        "href": "https://www.dgcp.gob.do/contacto/#",
+        "text": "English",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "English",
+        "hidden": true
+      },
+      {
+        "selector": "div.topbar-right:nth-of-type(2) > div:nth-of-type(3) > div.skiptranslate.goog-te-gadget > span > a.VIpgJd-ZVi9od-l4eHX-hSRGPd",
+        "href": "https://translate.google.com/",
+        "text": "Traductor",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Traductor",
+        "hidden": true
+      },
+      {
+        "selector": "div.container > div.row > div.col > span:nth-of-type(1) > a.home",
+        "href": "https://www.dgcp.gob.do/",
+        "text": "INICIO",
+        "ariaLabel": null,
+        "title": "Clic para acceder al enlace",
+        "accessibleNameHint": "Clic para acceder al enlace",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(1) > p > a:nth-of-type(1)",
+        "href": "tel:809-682-7407",
+        "text": "809-682-7407",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "809-682-7407",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(1) > p > a:nth-of-type(2)",
+        "href": "mailto:asistenciatecnica@dgcp.gob.do",
+        "text": "asistenciatecnica@dgcp.gob.do",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "asistenciatecnica@dgcp.gob.do",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(2) > p > a:nth-of-type(1)",
+        "href": "mailto:direcciongeneral@dgcp.gob.do",
+        "text": "direcciongeneral@dgcp.gob.do",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "direcciongeneral@dgcp.gob.do",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(2) > p > a:nth-of-type(2)",
+        "href": "tel:809-682-7407",
+        "text": "(809) 682-7407",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "(809) 682-7407",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(2) > p > a:nth-of-type(3)",
+        "href": "tel:829-681-7407",
+        "text": "(829) 681-7407",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "(829) 681-7407",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(3) > p > a:nth-of-type(2)",
+        "href": "https://comunidad.comprasdominicana.gob.do/STS/DGCP/Login.aspx",
+        "text": "sistemaelectronico.gob.do",
+        "ariaLabel": null,
+        "title": "Ir al Sistema Electrónico",
+        "accessibleNameHint": "Ir al Sistema Electrónico",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(3) > p > a:nth-of-type(3)",
+        "href": "https://www.facebook.com/ComprasRD/",
+        "text": "www.facebook.com/ComprasRD",
+        "ariaLabel": null,
+        "title": "Ir a Facebook",
+        "accessibleNameHint": "Ir a Facebook",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(3) > p > a:nth-of-type(4)",
+        "href": "https://www.instagram.com/comprasrd/",
+        "text": "www.instagram.com/comprasrd",
+        "ariaLabel": null,
+        "title": "Ir a Instagram",
+        "accessibleNameHint": "Ir a Instagram",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(3) > p > a:nth-of-type(5)",
+        "href": "https://www.linkedin.com/company/comprasrd/",
+        "text": "www.linkedin.com/company/comprasrd",
+        "ariaLabel": null,
+        "title": "Ir a Linkedin",
+        "accessibleNameHint": "Ir a Linkedin",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(3) > p > a:nth-of-type(6)",
+        "href": "https://twitter.com/ComprasRD",
+        "text": "www.twitter.com/ComprasRD",
+        "ariaLabel": null,
+        "title": "Visitar perfil de Twitter",
+        "accessibleNameHint": "Visitar perfil de Twitter",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(3) > p > a:nth-of-type(7)",
+        "href": "https://www.youtube.com/ContratacionesRD",
+        "text": "www.youtube.com/ContratacionesRD",
+        "ariaLabel": null,
+        "title": "Ir a canal de YouTube",
+        "accessibleNameHint": "Ir a canal de YouTube",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.content-right.mb-4:nth-of-type(3) > p > a:nth-of-type(8)",
+        "href": "https://www.tiktok.com/@comprasrd",
+        "text": "www.tiktok.com/@comprasrd",
+        "ariaLabel": null,
+        "title": "Ir a canal de TikTok",
+        "accessibleNameHint": "Ir a canal de TikTok",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.row.px-2:nth-of-type(5) > div.col.m-2:nth-of-type(1) > a.btn.btn-redes",
+        "href": "https://www.facebook.com/sharer.php?u=https://www.dgcp.gob.do/contacto/&t=Contacto",
+        "text": "",
+        "ariaLabel": null,
+        "title": "Compartir en Facebook",
+        "accessibleNameHint": "Compartir en Facebook",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.row.px-2:nth-of-type(5) > div.col.m-2:nth-of-type(2) > a.btn.btn-redes",
+        "href": "http://twitter.com/share?text=Contacto&url=https://www.dgcp.gob.do/contacto/",
+        "text": "",
+        "ariaLabel": null,
+        "title": "Compartir en Twitter",
+        "accessibleNameHint": "Compartir en Twitter",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.row.px-2:nth-of-type(5) > div.col.m-2:nth-of-type(3) > a.btn.btn-redes",
+        "href": "http://www.linkedin.com/shareArticle?mini=true&url=https://www.dgcp.gob.do/contacto/&title=Contacto",
+        "text": "",
+        "ariaLabel": null,
+        "title": "Compartir en LinkedIn",
+        "accessibleNameHint": "Compartir en LinkedIn",
+        "hidden": false
+      },
+      {
+        "selector": "div.col-md-12 > div > div.row.px-2:nth-of-type(5) > div.col.m-2:nth-of-type(4) > a.btn.btn-redes",
+        "href": "mailto:?subject=Contacto&body=https://www.dgcp.gob.do/contacto/",
+        "text": "",
+        "ariaLabel": null,
+        "title": "Compartir por Email",
+        "accessibleNameHint": "Compartir por Email",
+        "hidden": false
+      },
+      {
+        "selector": "body > div.container.my-4:nth-of-type(9) > div.row.row-cols-2 > div.col:nth-of-type(1) > a",
+        "href": "http://ricg.org/",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": false
+      },
+      {
+        "selector": "body > div.container.my-4:nth-of-type(9) > div.row.row-cols-2 > div.col:nth-of-type(2) > a",
+        "href": "https://www.open-contracting.org/",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": false
+      },
+      {
+        "selector": "body > div.container.my-4:nth-of-type(9) > div.row.row-cols-2 > div.col:nth-of-type(3) > a",
+        "href": "https://infrastructuretransparency.org/",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": false
+      },
+      {
+        "selector": "html > body > footer.footer-light.footer > div:nth-of-type(1) > a.subir.toTop",
+        "href": "https://www.dgcp.gob.do/contacto/#sistema-de-diseno-dominicano",
+        "text": "Subir",
+        "ariaLabel": "Subir",
+        "title": "Subir",
+        "accessibleNameHint": "Subir",
+        "hidden": true
+      },
+      {
+        "selector": "div.row.row-cols-lg-5 > div.col:nth-of-type(3) > ul.footer-menu-list > li:nth-of-type(1) > a.link-footer",
+        "href": "https://www.dgcp.gob.do/contacto",
+        "text": "Contacto",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Contacto",
+        "hidden": false
+      },
+      {
+        "selector": "div.row.row-cols-lg-5 > div.col:nth-of-type(3) > ul.footer-menu-list > li:nth-of-type(2) > a:nth-of-type(1)",
+        "href": "tel:(809) 682-7407",
+        "text": "(809) 682-7407",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "(809) 682-7407",
+        "hidden": false
+      },
+      {
+        "selector": "div.row.row-cols-lg-5 > div.col:nth-of-type(3) > ul.footer-menu-list > li:nth-of-type(2) > a:nth-of-type(2)",
+        "href": "tel:(829) 681-7407",
+        "text": "(829) 681-7407",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "(829) 681-7407",
+        "hidden": false
+      },
+      {
+        "selector": "div.row.row-cols-lg-5 > div.col:nth-of-type(3) > ul.footer-menu-list > li:nth-of-type(3) > a.link-footer",
+        "href": "mailto:direcciongeneral@dgcp.gob.do",
+        "text": "direcciongeneral@dgcp.gob.do",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "direcciongeneral@dgcp.gob.do",
+        "hidden": false
+      },
+      {
+        "selector": "div.row.row-cols-lg-5 > div.col.col-lg-2:nth-of-type(4) > ul.footer-menu-list > li > a",
+        "href": "https://maps.app.goo.gl/cErWCGLqwhaATmYP6",
+        "text": "Calle Pedro A. Lluberes #10204, Esq. Manuel Rodríguez Objío, Gascue, Santo Domingo, República Dominicana",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Calle Pedro A. Lluberes #10204, Esq. Manuel Rodríguez Objío, Gascue, Santo Domingo, República Dominicana",
+        "hidden": false
+      },
+      {
+        "selector": "div.row.row-cols-lg-5 > div.col.col-lg-2:nth-of-type(5) > ul.footer-menu-list > li.menu-item.menu-item-type-post_type:nth-of-type(1) > a.nav-link",
+        "href": "https://www.dgcp.gob.do/terminos-de-uso/",
+        "text": "Términos de Uso",
+        "ariaLabel": null,
+        "title": "Términos de Uso",
+        "accessibleNameHint": "Términos de Uso",
+        "hidden": false
+      },
+      {
+        "selector": "div.row.row-cols-lg-5 > div.col.col-lg-2:nth-of-type(5) > ul.footer-menu-list > li.menu-item.menu-item-type-post_type:nth-of-type(2) > a.nav-link",
+        "href": "https://www.dgcp.gob.do/politicas-de-privacidad/",
+        "text": "Políticas de Privacidad",
+        "ariaLabel": null,
+        "title": "Políticas de Privacidad",
+        "accessibleNameHint": "Políticas de Privacidad",
+        "hidden": false
+      },
+      {
+        "selector": "div.row.row-cols-lg-5 > div.col.col-lg-2:nth-of-type(5) > ul.footer-menu-list > li.menu-item.menu-item-type-post_type:nth-of-type(3) > a.nav-link",
+        "href": "https://www.dgcp.gob.do/preguntas-frecuentes/",
+        "text": "Preguntas Frecuentes",
+        "ariaLabel": null,
+        "title": "Preguntas Frecuentes",
+        "accessibleNameHint": "Preguntas Frecuentes",
+        "hidden": false
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(1) > a.stamp.stack-top",
+        "href": "https://nortic.ogtic.gob.do/instituciones/DGCP",
+        "text": "",
+        "ariaLabel": null,
+        "title": "Sello NORTIC",
+        "accessibleNameHint": "Sello NORTIC",
+        "hidden": false
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(2) > a.stamp.stack-top",
+        "href": "https://nortic.ogtic.gob.do/instituciones/DGCP",
+        "text": "",
+        "ariaLabel": null,
+        "title": "Sello NORTIC",
+        "accessibleNameHint": "Sello NORTIC",
+        "hidden": false
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(3) > a.stamp.stack-top",
+        "href": "https://nortic.ogtic.gob.do/instituciones/DGCP",
+        "text": "",
+        "ariaLabel": null,
+        "title": "Sello NORTIC",
+        "accessibleNameHint": "Sello NORTIC",
+        "hidden": false
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(4) > a.stamp.stack-top",
+        "href": "https://nortic.ogtic.gob.do/instituciones/DGCP",
+        "text": "",
+        "ariaLabel": null,
+        "title": "Sello NORTIC",
+        "accessibleNameHint": "Sello NORTIC",
+        "hidden": false
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(5) > a.stamp.stack-top",
+        "href": "https://nortic.ogtic.gob.do/instituciones/DGCP",
+        "text": "",
+        "ariaLabel": null,
+        "title": "Sello NORTIC",
+        "accessibleNameHint": "Sello NORTIC",
+        "hidden": false
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(6) > a.stamp.stack-top",
+        "href": "https://nortic.ogtic.gob.do/instituciones/DGCP",
+        "text": "",
+        "ariaLabel": null,
+        "title": "Sello NORTIC",
+        "accessibleNameHint": "Sello NORTIC",
+        "hidden": false
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(7) > a.stamp.stack-top",
+        "href": "https://www.dgcp.gob.do/noticias/la-dgcp-obtuvo-sello-de-oro-igualando-rd-para-el-sector-publico",
+        "text": "",
+        "ariaLabel": null,
+        "title": "Sello Igualando RD",
+        "accessibleNameHint": "Sello Igualando RD",
+        "hidden": false
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(8) > a.stamp.stack-top",
+        "href": "https://www.dgcp.gob.do/noticias/dgcp-eleva-sus-estandares-de-calidad-y-eficiencia-con-la-certificacion-internacional-iso-90012015/",
+        "text": "",
+        "ariaLabel": null,
+        "title": "NORDOM ISO 37001: 2016",
+        "accessibleNameHint": "NORDOM ISO 37001: 2016",
+        "hidden": false
+      },
+      {
+        "selector": "div.footer-bottom-cont > div.footer-bottom-right:nth-of-type(2) > ul.follow-icons > li:nth-of-type(1) > a.rs.facebook",
+        "href": "https://www.facebook.com/ComprasRD/",
+        "text": "",
+        "ariaLabel": "Facebook",
+        "title": null,
+        "accessibleNameHint": "Facebook",
+        "hidden": false
+      },
+      {
+        "selector": "div.footer-bottom-cont > div.footer-bottom-right:nth-of-type(2) > ul.follow-icons > li:nth-of-type(2) > a.rs.twitter",
+        "href": "https://twitter.com/ComprasRD",
+        "text": "",
+        "ariaLabel": "Twitter",
+        "title": null,
+        "accessibleNameHint": "Twitter",
+        "hidden": false
+      },
+      {
+        "selector": "div.footer-bottom-cont > div.footer-bottom-right:nth-of-type(2) > ul.follow-icons > li:nth-of-type(3) > a.rs.youtube",
+        "href": "https://www.youtube.com/user/ContratacionesRD",
+        "text": "",
+        "ariaLabel": "Youtube",
+        "title": null,
+        "accessibleNameHint": "Youtube",
+        "hidden": false
+      },
+      {
+        "selector": "div.footer-bottom-cont > div.footer-bottom-right:nth-of-type(2) > ul.follow-icons > li:nth-of-type(4) > a.rs.instagram",
+        "href": "https://www.instagram.com/comprasrd/",
+        "text": "",
+        "ariaLabel": "Instagram",
+        "title": null,
+        "accessibleNameHint": "Instagram",
+        "hidden": false
+      },
+      {
+        "selector": "div.footer-bottom-cont > div.footer-bottom-right:nth-of-type(2) > ul.follow-icons > li:nth-of-type(5) > a.rs.tiktok",
+        "href": "https://www.tiktok.com/@comprasrd",
+        "text": "",
+        "ariaLabel": "TikTok",
+        "title": null,
+        "accessibleNameHint": "TikTok",
+        "hidden": false
+      },
+      {
+        "selector": "div.footer-bottom-cont > div.footer-bottom-right:nth-of-type(2) > ul.follow-icons > li:nth-of-type(6) > a.rs.linkedin",
+        "href": "https://www.linkedin.com/company/comprasrd/",
+        "text": "",
+        "ariaLabel": "Linkedin",
+        "title": null,
+        "accessibleNameHint": "Linkedin",
+        "hidden": false
+      }
+    ],
+    "controls": [
+      {
+        "selector": "div.topbar-cont.d-none > div.topbar-right > form.search-bar.d-none > span.twitter-typeahead > input.tt-hint:nth-of-type(1)",
+        "tag": "input",
+        "type": "text",
+        "id": null,
+        "name": null,
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": true,
+        "hidden": true,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "div.topbar-cont.d-none > div.topbar-right > form.search-bar.d-none > span.twitter-typeahead > input.tt-query:nth-of-type(2)",
+        "tag": "input",
+        "type": "search",
+        "id": null,
+        "name": "s",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": "¿Qué deseas buscar?",
+        "required": true,
+        "disabled": false,
+        "hidden": false,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "div.container:nth-of-type(1) > div.topbar-cont.d-none > div.topbar-right > form.search-bar.d-none > button",
+        "tag": "button",
+        "type": "submit",
+        "id": null,
+        "name": null,
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": false,
+        "accessibleNameHint": "Buscar"
+      },
+      {
+        "selector": "#toggleSearch",
+        "tag": "button",
+        "type": "button",
+        "id": "toggleSearch",
+        "name": null,
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "Buscar"
+      },
+      {
+        "selector": "div.topbar-right:nth-of-type(2) > div:nth-of-type(3) > div.skiptranslate.goog-te-gadget > div > select.goog-te-combo",
+        "tag": "select",
+        "type": null,
+        "id": null,
+        "name": null,
+        "labels": [],
+        "ariaLabel": "Widget de traducción de idiomas",
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "Widget de traducción de idiomas"
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.bg-white.p-3:nth-of-type(2) > form.search-bar > span.twitter-typeahead > input.tt-hint:nth-of-type(1)",
+        "tag": "input",
+        "type": "text",
+        "id": null,
+        "name": null,
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": true,
+        "hidden": true,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "#searchM",
+        "tag": "input",
+        "type": "search",
+        "id": "searchM",
+        "name": "s",
+        "labels": [
+          "Buscar",
+          ""
+        ],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": "¿Qué deseas buscar?",
+        "required": true,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "header.topbar.d-print-none > div.main-menu.py-2:nth-of-type(2) > div.bg-white.p-3:nth-of-type(2) > form.search-bar > button.px-4",
+        "tag": "button",
+        "type": "submit",
+        "id": null,
+        "name": null,
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "Buscar"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(1)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "11070"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(2)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7_version",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "6.2.2"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(3)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7_locale",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "es_ES"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(4)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7_unit_tag",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "wpcf7-f11070-p19-o1"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(5)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7_container_post",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "19"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(6)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7_posted_data_hash",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(7)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7cf_hidden_group_fields",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "[]"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(8)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7cf_hidden_groups",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "[]"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(9)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7cf_visible_groups",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "[]"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(10)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7cf_repeaters",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "[]"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(11)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7cf_steps",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "{}"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(12)",
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "_wpcf7cf_options",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "{\"form_id\":11070,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false,\"repeater_remove_button\":\"bottom\",\"notice_dismissed_rollback-cf7-5.3.2\":true,\"notice_dismissed_rollback-cf7-5.4\":true,\"notice_dismissed_rollback-cf7-5.4.2\":true,\"notice_dismissed_rollback-cf7-5.8.5\":true,\"notice_dismissed_rollback-cf7-5.8.6\":true,\"notice_dismissed_rollback-cf7-6.1.6\":true,\"notice_dismissed_rollback-cf7-6.1.7\":true}}"
+      },
+      {
+        "selector": "#cf-chl-widget-0qcs8_response",
+        "tag": "input",
+        "type": "hidden",
+        "id": "cf-chl-widget-0qcs8_response",
+        "name": "_wpcf7_turnstile_response",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "#nombre",
+        "tag": "input",
+        "type": "text",
+        "id": "nombre",
+        "name": "nombre",
+        "labels": [
+          "Nombre *"
+        ],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": "Juan Pérez",
+        "required": true,
+        "disabled": false,
+        "hidden": false,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "#correo",
+        "tag": "input",
+        "type": "email",
+        "id": "correo",
+        "name": "correo",
+        "labels": [
+          "Correo Electrónico *"
+        ],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": "juan.perez@mail.com",
+        "required": true,
+        "disabled": false,
+        "hidden": false,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "#mensaje",
+        "tag": "textarea",
+        "type": null,
+        "id": "mensaje",
+        "name": "mensaje",
+        "labels": [
+          "Mensaje *"
+        ],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": "Escribe tu mensaje...",
+        "required": true,
+        "disabled": false,
+        "hidden": false,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "form.wpcf7-form.init > div.row.justify-content-end:nth-of-type(4) > div.col-4.col-md-3:nth-of-type(1) > p > button.btn.btn-lg",
+        "tag": "button",
+        "type": "reset",
+        "id": null,
+        "name": null,
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": false,
+        "accessibleNameHint": "BORRAR"
+      },
+      {
+        "selector": "form.wpcf7-form.init > div.row.justify-content-end:nth-of-type(4) > div.col-4.col-md-3:nth-of-type(2) > p > input.wpcf7-form-control.wpcf7-submit",
+        "tag": "input",
+        "type": "submit",
+        "id": null,
+        "name": null,
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": false,
+        "accessibleNameHint": "Enviar"
+      },
+      {
+        "selector": "footer.footer-light.footer > div.footer-nortic.container:nth-of-type(3) > div.accordion.accordion-flush > div.accordion-item.border-0 > button.text-primary.text-uppercase",
+        "tag": "button",
+        "type": "button",
+        "id": null,
+        "name": null,
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "Certificaciones obtenidas"
+      },
+      {
+        "selector": "#goog-gt-thumbUpButton",
+        "tag": "button",
+        "type": "button",
+        "id": "goog-gt-thumbUpButton",
+        "name": null,
+        "labels": [],
+        "ariaLabel": "Buena traducción",
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "Buena traducción"
+      },
+      {
+        "selector": "#goog-gt-thumbDownButton",
+        "tag": "button",
+        "type": "button",
+        "id": "goog-gt-thumbDownButton",
+        "name": null,
+        "labels": [],
+        "ariaLabel": "Mala traducción",
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": "Mala traducción"
+      },
+      {
+        "selector": "#goog-gt-votingInputSrcLang",
+        "tag": "input",
+        "type": "text",
+        "id": "goog-gt-votingInputSrcLang",
+        "name": "sl",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "#goog-gt-votingInputTrgLang",
+        "tag": "input",
+        "type": "text",
+        "id": "goog-gt-votingInputTrgLang",
+        "name": "tl",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "#goog-gt-votingInputSrcText",
+        "tag": "input",
+        "type": "text",
+        "id": "goog-gt-votingInputSrcText",
+        "name": "query",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "#goog-gt-votingInputTrgText",
+        "tag": "input",
+        "type": "text",
+        "id": "goog-gt-votingInputTrgText",
+        "name": "gtrans",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": ""
+      },
+      {
+        "selector": "#goog-gt-votingInputVote",
+        "tag": "input",
+        "type": "text",
+        "id": "goog-gt-votingInputVote",
+        "name": "vote",
+        "labels": [],
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "placeholder": null,
+        "required": false,
+        "disabled": false,
+        "hidden": true,
+        "accessibleNameHint": ""
+      }
+    ],
+    "emptyLinks": [
+      {
+        "selector": "body > header.topbar.d-print-none > div.container:nth-of-type(1) > div.topbar-cont.d-none > a.logo",
+        "href": "https://www.dgcp.gob.do/",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": false
+      },
+      {
+        "selector": "div.topbar-right > div.menu-grid.me-1:nth-of-type(1) > ul.dropdown-menu.collapsed > div.menu-grid-title:nth-of-type(1) > a",
+        "href": "https://www.dgcp.gob.do/contacto/#collapseMain",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": true
+      },
+      {
+        "selector": "header.topbar.d-print-none > div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > a.logo.d-block",
+        "href": "https://www.dgcp.gob.do/",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": true
+      },
+      {
+        "selector": "div.px-0.d-block:nth-of-type(1) > div.menu-grid.me-1 > ul.dropdown-menu.collapsed > div.menu-grid-title:nth-of-type(1) > a",
+        "href": "https://www.dgcp.gob.do/contacto/#collapseMain",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": true
+      },
+      {
+        "selector": "body > div.container.my-4:nth-of-type(9) > div.row.row-cols-2 > div.col:nth-of-type(1) > a",
+        "href": "http://ricg.org/",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": false
+      },
+      {
+        "selector": "body > div.container.my-4:nth-of-type(9) > div.row.row-cols-2 > div.col:nth-of-type(2) > a",
+        "href": "https://www.open-contracting.org/",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": false
+      },
+      {
+        "selector": "body > div.container.my-4:nth-of-type(9) > div.row.row-cols-2 > div.col:nth-of-type(3) > a",
+        "href": "https://infrastructuretransparency.org/",
+        "text": "",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "",
+        "hidden": false
+      }
+    ],
+    "genericImageAlts": [],
+    "duplicateIds": [
+      "collapseMain",
+      "collapsePortales",
+      "collapseInternos",
+      "current-lang"
+    ],
+    "media": [
+      {
+        "selector": "html > body > div.uwy.userway_p5:nth-of-type(1) > iframe.uwif.userway_p5",
+        "tag": "iframe",
+        "src": null,
+        "controls": false,
+        "autoplay": false,
+        "title": "UserWay Menú de Accesibilidad",
+        "tracks": []
+      },
+      {
+        "selector": "#\\:1\\.container",
+        "tag": "iframe",
+        "src": "https://www.dgcp.gob.do/contacto/#",
+        "controls": false,
+        "autoplay": false,
+        "title": null,
+        "tracks": []
+      },
+      {
+        "selector": "html > body > div.videoplayer:nth-of-type(8) > video.rawvideo",
+        "tag": "video",
+        "src": null,
+        "controls": false,
+        "autoplay": true,
+        "title": null,
+        "tracks": []
+      },
+      {
+        "selector": "html > body > main.main > div.ratio.ratio-21x9:nth-of-type(3) > iframe.embed-responsive-item",
+        "tag": "iframe",
+        "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3340.3757942506923!2d-69.90537855609053!3d18.4719937398503!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5b6c0e07dac398!2sDireccion%20General%20de%20Contrataciones%20Publicas!5e0!3m2!1ses!2sdo!4v1591708480050!5m2!1ses!2sdo",
+        "controls": false,
+        "autoplay": false,
+        "title": null,
+        "tracks": []
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(1) > iframe",
+        "tag": "iframe",
+        "src": "https://be.nortic.ogtic.gob.do/stampprocesses/stamp/159",
+        "controls": false,
+        "autoplay": false,
+        "title": "Norma para el Desarrollo y Gestión de los Medios Web del Estado Dominicano.",
+        "tracks": []
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(2) > iframe",
+        "tag": "iframe",
+        "src": "https://be.nortic.ogtic.gob.do/stampprocesses/stamp/160",
+        "controls": false,
+        "autoplay": false,
+        "title": "Norma sobre Publicación de Datos Abiertos del Gobierno Dominicano.",
+        "tracks": []
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(3) > iframe",
+        "tag": "iframe",
+        "src": "https://be.nortic.ogtic.gob.do/stampprocesses/stamp/161",
+        "controls": false,
+        "autoplay": false,
+        "title": "Norma para la Gestión de las Redes Sociales en los Organismos Gubernamentales.",
+        "tracks": []
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(4) > iframe",
+        "tag": "iframe",
+        "src": "https://be.nortic.ogtic.gob.do/stampprocesses/stamp/162",
+        "controls": false,
+        "autoplay": false,
+        "title": "Norma para la Interoperabilidad entre los Organismos del Gobierno Dominicano.",
+        "tracks": []
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(5) > iframe",
+        "tag": "iframe",
+        "src": "https://be.nortic.ogtic.gob.do/stampprocesses/stamp/640",
+        "controls": false,
+        "autoplay": false,
+        "title": "Norma sobre el Desarrollo y Gestión del Software en el Estado Dominicano.",
+        "tracks": []
+      },
+      {
+        "selector": "div.accordion-body > div.certifications > div.nortic-seals.row > div.col:nth-of-type(6) > iframe",
+        "tag": "iframe",
+        "src": "https://be.nortic.ogtic.gob.do/stampprocesses/stamp/709",
+        "controls": false,
+        "autoplay": false,
+        "title": "Norma sobre Accesibilidad Web del Estado Dominicano.",
+        "tracks": []
+      },
+      {
+        "selector": "body > div.VIpgJd-yAWNEb-L7lbkb.skiptranslate:nth-of-type(10) > div.VIpgJd-yAWNEb-hvhgNd > div.VIpgJd-yAWNEb-hvhgNd-aXYTce:nth-of-type(4) > iframe",
+        "tag": "iframe",
+        "src": null,
+        "controls": false,
+        "autoplay": false,
+        "title": null,
+        "tracks": []
+      },
+      {
+        "selector": "html > body > iframe.VIpgJd-ZVi9od-xl07Ob-OEVmcd.skiptranslate:nth-of-type(1)",
+        "tag": "iframe",
+        "src": null,
+        "controls": false,
+        "autoplay": false,
+        "title": "Widget de traducción de idiomas",
+        "tracks": []
+      },
+      {
+        "selector": "html > body > iframe.VIpgJd-ZVi9od-xl07Ob-OEVmcd.skiptranslate:nth-of-type(2)",
+        "tag": "iframe",
+        "src": null,
+        "controls": false,
+        "autoplay": false,
+        "title": "Widget de traducción de idiomas",
+        "tracks": []
+      },
+      {
+        "selector": "#tZlVlSGG0mhclk9tPj-Omy",
+        "tag": "iframe",
+        "src": "about:blank",
+        "controls": false,
+        "autoplay": false,
+        "title": "Widget de chat",
+        "tracks": []
+      },
+      {
+        "selector": "#tzaKMZ6eyORr6I8macBGh-",
+        "tag": "iframe",
+        "src": "about:blank",
+        "controls": false,
+        "autoplay": false,
+        "title": "Visitar tawk.to",
+        "tracks": []
+      },
+      {
+        "selector": "#tb_5b8e7pOqm62D7QDl5Le",
+        "tag": "iframe",
+        "src": "about:blank",
+        "controls": false,
+        "autoplay": false,
+        "title": "Widget de chat",
+        "tracks": []
+      }
+    ],
+    "tables": [],
+    "langChanges": [
+      {
+        "selector": "#wpcf7-f11070-p19-o1",
+        "lang": "es-ES",
+        "text": "Nombre * Correo Electrónico * Mensaje * BORRAR"
+      }
+    ],
+    "suspiciousHiddenFocusable": [
+      {
+        "selector": "#userwayLstIcon",
+        "tag": "div",
+        "tabIndex": 0,
+        "name": "Menú de traducciones"
+      },
+      {
+        "selector": "div.topbar-cont.d-none > div.topbar-right > form.search-bar.d-none > span.twitter-typeahead > input.tt-hint:nth-of-type(1)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "div.topbar-right > div.menu-grid.me-1:nth-of-type(1) > ul.dropdown-menu.collapsed > div.menu-grid-title:nth-of-type(1) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Servicios Gob"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "9 1 1"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "3-1-1"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Becas tu Futuro"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Observatorio MAP"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Dominicana GOB"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Proveedores"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "MiPymes"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Mujer"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Ciudadanía"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Participación Social"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Proética"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(7) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Ruedas de Negocios"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(8) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Convenios"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(9) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Comunidad de Compras"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(10) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Foro"
+      },
+      {
+        "selector": "div.topbar-cont.d-none > div.topbar-right > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(1)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Español"
+      },
+      {
+        "selector": "div.topbar-cont.d-none > div.topbar-right > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(2)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "English"
+      },
+      {
+        "selector": "header.topbar.d-print-none > div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > a.logo.d-block",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "div.px-0.d-block:nth-of-type(1) > div.menu-grid.me-1 > ul.dropdown-menu.collapsed > div.menu-grid-title:nth-of-type(1) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Servicios Gob"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "9 1 1"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "3-1-1"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Becas tu Futuro"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Observatorio MAP"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-3:nth-of-type(2) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Dominicana GOB"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(1) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Proveedores"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(2) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "MiPymes"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(3) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Mujer"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(4) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Ciudadanía"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(5) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Participación Social"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(6) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Proética"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(7) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Ruedas de Negocios"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(8) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Convenios"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(9) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Comunidad de Compras"
+      },
+      {
+        "selector": "div.menu-grid-content.pt-0:nth-of-type(3) > div.dropdown-items.collapse > div.row.row-cols-4 > div.menu-item.col:nth-of-type(10) > a",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Foro"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(1)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "¿Quiénes Somos?"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(2)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Historia"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(3)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Organigrama"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(4)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Despacho del Director"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(5)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Marco Legal"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(6)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Gestión de la Calidad"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(7)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Carta Compromiso"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(1)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Inscripción en el Registro de Proveedores del Estado (RPE)"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(2)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Actualización del Registro de Proveedores del Estado (RPE)"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(3)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Vinculación de usuario en el Sistema Electrónico de Contrataciones Públicas (Membresía)"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(4)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Capacitaciones"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(3) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(5)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Creación de unidad de compra"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(1)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Sistema de Información de Contrataciones Públicas (SICP)"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(2)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Datos abiertos"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(3)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Siscompras"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(4)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Catálogo de Bienes y Servicios"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(5)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "InfoPago – Transparencia y trazabilidad en los pagos"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(4) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(6)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "SISDenuncia"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(1)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Mejoras SECP"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(2)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Novedades Ley 47-25"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(3)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Preguntas Ley 47-25"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(4)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Biblioteca Virtual"
+      },
+      {
+        "selector": "div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(1)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Solicitar acceso"
+      },
+      {
+        "selector": "div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(2)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Acceder"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(5)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Consultas Públicas"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(6)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Compras Verdes"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(7)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Campus Virtual"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(8)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Mujeres en el SNCCP"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(9)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Consultas Públicas"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(10)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Instituciones Implementadas en el SECP"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(11)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Avisos"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(12)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Publicaciones"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(13)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Foro"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(14)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Procesos publicados en la prensa"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(15)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Colusión en contrataciones públicas"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(16)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Guía para la Transversalización del Enfoque de Género"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(17)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Procedimiento sobre control de gasto y pago a proveedores"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(18)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "COVID-19"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(19)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Compras Dominicanas"
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(20)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Consultorías e Informes"
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.d-none:nth-of-type(5)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Sistema Electrónico"
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.d-block:nth-of-type(7)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Términos de Uso"
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.d-block:nth-of-type(8)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Políticas de Privacidad"
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.container:nth-of-type(1) > div.main-menu-cont > div.menu:nth-of-type(1) > a.menu-item.d-block:nth-of-type(9)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Preguntas Frecuentes"
+      },
+      {
+        "selector": "#toggleSearch",
+        "tag": "button",
+        "tabIndex": 0,
+        "name": "Buscar"
+      },
+      {
+        "selector": "#current-lang",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "ES"
+      },
+      {
+        "selector": "div.main-menu-cont > div.topbar-right:nth-of-type(2) > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(1)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Español"
+      },
+      {
+        "selector": "div.main-menu-cont > div.topbar-right:nth-of-type(2) > div.lang-select.dropdown-simple:nth-of-type(2) > div.dropdown-list > a:nth-of-type(2)",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "English"
+      },
+      {
+        "selector": "div.topbar-right:nth-of-type(2) > div:nth-of-type(3) > div.skiptranslate.goog-te-gadget > div > select.goog-te-combo",
+        "tag": "select",
+        "tabIndex": 0,
+        "name": "Widget de traducción de idiomas"
+      },
+      {
+        "selector": "div.topbar-right:nth-of-type(2) > div:nth-of-type(3) > div.skiptranslate.goog-te-gadget > span > a.VIpgJd-ZVi9od-l4eHX-hSRGPd",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Traductor"
+      },
+      {
+        "selector": "div.main-menu.py-2:nth-of-type(2) > div.bg-white.p-3:nth-of-type(2) > form.search-bar > span.twitter-typeahead > input.tt-hint:nth-of-type(1)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "#searchM",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "header.topbar.d-print-none > div.main-menu.py-2:nth-of-type(2) > div.bg-white.p-3:nth-of-type(2) > form.search-bar > button.px-4",
+        "tag": "button",
+        "tabIndex": 0,
+        "name": "Buscar"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(1)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": "11070"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(2)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": "6.2.2"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(3)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": "es_ES"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(4)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": "wpcf7-f11070-p19-o1"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(5)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": "19"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(6)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(7)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": "[]"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(8)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": "[]"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(9)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": "[]"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(10)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": "[]"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(11)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": "{}"
+      },
+      {
+        "selector": "div > div.wpcf7.js:nth-of-type(4) > form.wpcf7-form.init > fieldset.hidden-fields-container > input:nth-of-type(12)",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": "{\"form_id\":11070,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false,\"repeater_remove_button\":\"bottom\",\"notice_dismissed_rollback-cf7-5.3.2\":true,\"notice_dismissed_rollback-cf7-5.4\":true,\"notice_dismissed_rollback-cf7-5.4.2\":true,\"notice_dismissed_rollback-cf7-5.8.5\":true,\"notice_dismissed_rollback-cf7-5.8.6\":true,\"notice_dismissed_rollback-cf7-6.1.6\":true,\"notice_dismissed_rollback-cf7-6.1.7\":true}}"
+      },
+      {
+        "selector": "#cf-chl-widget-0qcs8_response",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "html > body > footer.footer-light.footer > div:nth-of-type(1) > a.subir.toTop",
+        "tag": "a",
+        "tabIndex": 0,
+        "name": "Subir"
+      },
+      {
+        "selector": "footer.footer-light.footer > div.footer-nortic.container:nth-of-type(3) > div.accordion.accordion-flush > div.accordion-item.border-0 > button.text-primary.text-uppercase",
+        "tag": "button",
+        "tabIndex": 0,
+        "name": "Certificaciones obtenidas"
+      },
+      {
+        "selector": "#goog-gt-thumbUpButton",
+        "tag": "button",
+        "tabIndex": 0,
+        "name": "Buena traducción"
+      },
+      {
+        "selector": "#goog-gt-thumbDownButton",
+        "tag": "button",
+        "tabIndex": 0,
+        "name": "Mala traducción"
+      },
+      {
+        "selector": "#goog-gt-votingInputSrcLang",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "#goog-gt-votingInputTrgLang",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "#goog-gt-votingInputSrcText",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "#goog-gt-votingInputTrgText",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": ""
+      },
+      {
+        "selector": "#goog-gt-votingInputVote",
+        "tag": "input",
+        "tabIndex": 0,
+        "name": ""
+      }
+    ],
+    "moreInfoLinks": [],
+    "pdfLinks": [
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(2) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(7)",
+        "href": "https://www.dgcp.gob.do/new_dgcp/documentos/planificacion_y_desarrollo/gestion_de_calidad/CARTA%20COMPROMISO%202024%2011x8.5.pdf",
+        "text": "Carta Compromiso",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Carta Compromiso",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.menu-item:nth-of-type(1)",
+        "href": "https://www.dgcp.gob.do/new_dgcp/documentos/secp/Resumen_Mejoras_SECP_Despliegue%2031.10.2025.pdf",
+        "text": "Mejoras SECP",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Mejoras SECP",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(15)",
+        "href": "https://www.dgcp.gob.do/wp-content/uploads/2022/Material%20sobre%20Colusio%CC%81n%20en%20las%20Contrataciones%20Pu%CC%81blicas%20para%20web%20DGCP%20ma.pdf",
+        "text": "Colusión en contrataciones públicas",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Colusión en contrataciones públicas",
+        "hidden": true
+      },
+      {
+        "selector": "div.main-menu-cont > div.menu:nth-of-type(1) > div.dropdown.menu-dropdown:nth-of-type(5) > div.dropdown-menu > a.dropdown-item.d-none:nth-of-type(16)",
+        "href": "https://www.dgcp.gob.do/wp-content/uploads/page/guia-transversalizacion.pdf",
+        "text": "Guía para la Transversalización del Enfoque de Género",
+        "ariaLabel": null,
+        "title": null,
+        "accessibleNameHint": "Guía para la Transversalización del Enfoque de Género",
+        "hidden": true
+      }
+    ],
+    "bodyTextSample": "Ir al contenido principal Pausar animaciones SISTEMA ELECTRÓNICO Buscar ES Inicio Nosotros Servicios Transparencia Noticias Sistema de Información Interés MIPYMEs Contactos INICIO » CONTACTO CONTACTO Asistencia Técnica Teléfono: 809-682-7407 – Opción 1 Correo electrónico: asistenciatecnica@dgcp.gob.do Santo Domingo Dirección: Calle Pedro A. Lluberes, Esq. Rodríguez Objío, Gazcue. Santo Domingo, República Dominicana. Horario: Lunes a viernes en horario de 8:00 a.m. a 4:00 p.m. Correo electrónico: direcciongeneral@dgcp.gob.do Apartado Postal: 11112 Teléfono: (809) 682-7407 / (829) 681-7407 Contacto Virtual Chatea con nosotros: Pulse aquí Sistema Electrónico de Contrataciones Publicas (SECP) sistemaelectronico.gob.do Facebook: www.facebook.com/ComprasRD Instagram: www.instagram.com/comprasrd LinkedIn: www.linkedin.com/company/comprasrd Twitter: www.twitter.com/ComprasRD YouTube: www.youtube.com/ContratacionesRD TikTok: www.tiktok.com/@comprasrd • Formulario de Contacto • Nombre * Correo Electrónico * Mensaje * BORRAR Compartir ALIANZAS INSTITUCIONALES CONÓCENOS Dirección General de Contrataciones Públicas (DGCP) CONTÁCTANOS Contacto Tel: (809) 682-7407 | (829) 681-7407 direcciongeneral@dgcp.gob.do BÚSCANOS Calle Pedro A. Lluberes #10204, Esq. Manuel Rodríguez Objío, Gascue, Santo Domingo, República Dominicana INFÓRMATE Términos de Uso Políticas de Privacidad Preguntas Frecuentes CERTIFICACIONES OBTENIDAS © 2026 Todos los Derechos Reservados. SÍGUENOS"
+  },
+  "keyboard": [
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.dgcp.gob.do/",
+      "name": "",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 67,
+        "y": 27,
+        "width": 320,
+        "height": 66
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://secp.gob.do/",
+      "name": "SISTEMA ELECTRÓNICO",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 768.640625,
+        "y": 49.5,
+        "width": 190.375,
+        "height": 21
+      }
+    },
+    {
+      "tag": "input",
+      "id": null,
+      "href": null,
+      "name": "¿Qué deseas buscar?",
+      "focusVisible": true,
+      "outlineStyle": "none",
+      "outlineWidth": "3px",
+      "outlineColor": "rgb(0, 0, 0)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 959.015625,
+        "y": 40,
+        "width": 257,
+        "height": 40
+      }
+    },
+    {
+      "tag": "button",
+      "id": null,
+      "href": null,
+      "name": "Buscar",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 1176.015625,
+        "y": 40,
+        "width": 40,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "id": "current-lang",
+      "href": "https://www.dgcp.gob.do/contacto/#",
+      "name": "ES",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 1310.015625,
+        "y": 49.5,
+        "width": 62.984375,
+        "height": 21
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.dgcp.gob.do/",
+      "name": "Inicio",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 67,
+        "y": 110,
+        "width": 39.890625,
+        "height": 21
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.dgcp.gob.do/sobre-nosotros/",
+      "name": "Nosotros",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 136.890625,
+        "y": 110,
+        "width": 81.3125,
+        "height": 21
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.dgcp.gob.do/servicios/",
+      "name": "Servicios",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 248.203125,
+        "y": 110,
+        "width": 81.859375,
+        "height": 21
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.dgcp.gob.do/transparencia/",
+      "name": "Transparencia",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 360.0625,
+        "y": 110,
+        "width": 103.75,
+        "height": 21
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.dgcp.gob.do/noticias/",
+      "name": "Noticias",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 493.8125,
+        "y": 110,
+        "width": 59.84375,
+        "height": 21
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "http://datosabiertos.dgcp.gob.do/",
+      "name": "Sistema de Información",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 583.65625,
+        "y": 110,
+        "width": 189.5,
+        "height": 21
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.dgcp.gob.do/contacto/#",
+      "name": "Interés",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 803.15625,
+        "y": 110,
+        "width": 66.171875,
+        "height": 21
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.dgcp.gob.do/mipymes/",
+      "name": "MIPYMEs",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 899.328125,
+        "y": 110,
+        "width": 67.359375,
+        "height": 21
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.dgcp.gob.do/contacto/",
+      "name": "Contactos",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 996.6875,
+        "y": 110,
+        "width": 74.71875,
+        "height": 21
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.dgcp.gob.do/",
+      "name": "Clic para acceder al enlace",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 67,
+        "y": 161.1875,
+        "width": 37.796875,
+        "height": 16
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "tel:809-682-7407",
+      "name": "809-682-7407",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 162.421875,
+        "y": 694.359375,
+        "width": 107.203125,
+        "height": 19
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "mailto:asistenciatecnica@dgcp.gob.do",
+      "name": "asistenciatecnica@dgcp.gob.do",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 231.765625,
+        "y": 718.359375,
+        "width": 232.9375,
+        "height": 19
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "mailto:direcciongeneral@dgcp.gob.do",
+      "name": "direcciongeneral@dgcp.gob.do",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 238.65625,
+        "y": 851.15625,
+        "width": 231.375,
+        "height": 19
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "tel:809-682-7407",
+      "name": "(809) 682-7407",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 162.421875,
+        "y": 899.15625,
+        "width": 112.96875,
+        "height": 19
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "tel:829-681-7407",
+      "name": "(829) 681-7407",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 293.21875,
+        "y": 899.15625,
+        "width": 108.703125,
+        "height": 19
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://comunidad.comprasdominicana.gob.do/STS/DGCP/Login.aspx",
+      "name": "Ir al Sistema Electrónico",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 87,
+        "y": 490.953125,
+        "width": 194.671875,
+        "height": 19
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.facebook.com/ComprasRD/",
+      "name": "Ir a Facebook",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 87,
+        "y": 538.953125,
+        "width": 244.0625,
+        "height": 19
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.instagram.com/comprasrd/",
+      "name": "Ir a Instagram",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 87,
+        "y": 586.953125,
+        "width": 239.15625,
+        "height": 19
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.linkedin.com/company/comprasrd/",
+      "name": "Ir a Linkedin",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 87,
+        "y": 634.953125,
+        "width": 300.609375,
+        "height": 19
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://twitter.com/ComprasRD",
+      "name": "Visitar perfil de Twitter",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 87,
+        "y": 682.953125,
+        "width": 220.59375,
+        "height": 19
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.youtube.com/ContratacionesRD",
+      "name": "Ir a canal de YouTube",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 87,
+        "y": 730.953125,
+        "width": 279.640625,
+        "height": 19
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.tiktok.com/@comprasrd",
+      "name": "Ir a canal de TikTok",
+      "focusVisible": true,
+      "outlineStyle": "auto",
+      "outlineWidth": "1px",
+      "outlineColor": "rgb(16, 16, 16)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 87,
+        "y": 778.953125,
+        "width": 220.3125,
+        "height": 19
+      }
+    },
+    {
+      "tag": "input",
+      "id": "nombre",
+      "href": null,
+      "name": "Juan Pérez",
+      "focusVisible": true,
+      "outlineStyle": "none",
+      "outlineWidth": "0px",
+      "outlineColor": "rgb(33, 37, 41)",
+      "boxShadow": "rgba(13, 110, 253, 0.25) 0px 0px 0px 4px",
+      "rect": {
+        "x": 67,
+        "y": 911.546875,
+        "width": 641,
+        "height": 38
+      }
+    },
+    {
+      "tag": "input",
+      "id": "correo",
+      "href": null,
+      "name": "juan.perez@mail.com",
+      "focusVisible": true,
+      "outlineStyle": "none",
+      "outlineWidth": "0px",
+      "outlineColor": "rgb(33, 37, 41)",
+      "boxShadow": "rgba(13, 110, 253, 0.25) 0px 0px 0px 4px",
+      "rect": {
+        "x": 732,
+        "y": 911.546875,
+        "width": 641,
+        "height": 38
+      }
+    },
+    {
+      "tag": "textarea",
+      "id": "mensaje",
+      "href": null,
+      "name": "Escribe tu mensaje...",
+      "focusVisible": true,
+      "outlineStyle": "none",
+      "outlineWidth": "0px",
+      "outlineColor": "rgb(33, 37, 41)",
+      "boxShadow": "rgba(13, 110, 253, 0.25) 0px 0px 0px 4px",
+      "rect": {
+        "x": 67,
+        "y": 970.546875,
+        "width": 1306,
+        "height": 254
+      }
+    },
+    {
+      "tag": "button",
+      "id": null,
+      "href": null,
+      "name": "BORRAR",
+      "focusVisible": true,
+      "outlineStyle": "none",
+      "outlineWidth": "0px",
+      "outlineColor": "rgb(255, 255, 255)",
+      "boxShadow": "rgba(13, 110, 253, 0.5) 0px 0px 0px 4px",
+      "rect": {
+        "x": 732,
+        "y": 478.546875,
+        "width": 308.5,
+        "height": 42
+      }
+    },
+    {
+      "tag": "input",
+      "id": null,
+      "href": null,
+      "name": "Enviar",
+      "focusVisible": true,
+      "outlineStyle": "none",
+      "outlineWidth": "0px",
+      "outlineColor": "rgb(255, 255, 255)",
+      "boxShadow": "rgba(49, 132, 253, 0.5) 0px 0px 0px 4px",
+      "rect": {
+        "x": 1064.5,
+        "y": 478.546875,
+        "width": 308.5,
+        "height": 42
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "https://www.facebook.com/sharer.php?u=https://www.dgcp.gob.do/contacto/&t=Contacto",
+      "name": "Compartir en Facebook",
+      "focusVisible": true,
+      "outlineStyle": "none",
+      "outlineWidth": "0px",
+      "outlineColor": "rgb(24, 97, 194)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 83,
+        "y": 605.34375,
+        "width": 222.796875,
+        "height": 50
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "http://twitter.com/share?text=Contacto&url=https://www.dgcp.gob.do/contacto/",
+      "name": "Compartir en Twitter",
+      "focusVisible": true,
+      "outlineStyle": "none",
+      "outlineWidth": "0px",
+      "outlineColor": "rgb(24, 97, 194)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 345.796875,
+        "y": 605.34375,
+        "width": 222.8125,
+        "height": 50
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "http://www.linkedin.com/shareArticle?mini=true&url=https://www.dgcp.gob.do/contacto/&title=Contacto",
+      "name": "Compartir en LinkedIn",
+      "focusVisible": true,
+      "outlineStyle": "none",
+      "outlineWidth": "0px",
+      "outlineColor": "rgb(24, 97, 194)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 608.609375,
+        "y": 605.34375,
+        "width": 222.796875,
+        "height": 50
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "href": "mailto:?subject=Contacto&body=https://www.dgcp.gob.do/contacto/",
+      "name": "Compartir por Email",
+      "focusVisible": true,
+      "outlineStyle": "none",
+      "outlineWidth": "0px",
+      "outlineColor": "rgb(24, 97, 194)",
+      "boxShadow": "none",
+      "rect": {
+        "x": 871.40625,
+        "y": 605.34375,
+        "width": 222.796875,
+        "height": 50
+      }
+    }
+  ],
+  "contactValidation": [
+    {
+      "action": "https://www.dgcp.gob.do/",
+      "method": "get",
+      "noValidate": false,
+      "fields": [
+        {
+          "name": "",
+          "type": "text",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "s",
+          "type": "search",
+          "required": true,
+          "ariaRequired": null,
+          "willValidate": true,
+          "validationMessage": "Please fill out this field."
+        }
+      ]
+    },
+    {
+      "action": "https://www.dgcp.gob.do/",
+      "method": "get",
+      "noValidate": false,
+      "fields": [
+        {
+          "name": "",
+          "type": "text",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "s",
+          "type": "search",
+          "required": true,
+          "ariaRequired": null,
+          "willValidate": true,
+          "validationMessage": "Please fill out this field."
+        }
+      ]
+    },
+    {
+      "action": "https://www.dgcp.gob.do/contacto/#wpcf7-f11070-p19-o1",
+      "method": "post",
+      "noValidate": true,
+      "fields": [
+        {
+          "name": "_wpcf7",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7_version",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7_locale",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7_unit_tag",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7_container_post",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7_posted_data_hash",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7cf_hidden_group_fields",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7cf_hidden_groups",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7cf_visible_groups",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7cf_repeaters",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7cf_steps",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7cf_options",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "_wpcf7_turnstile_response",
+          "type": "hidden",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": false,
+          "validationMessage": ""
+        },
+        {
+          "name": "nombre",
+          "type": "text",
+          "required": false,
+          "ariaRequired": "true",
+          "willValidate": true,
+          "validationMessage": ""
+        },
+        {
+          "name": "correo",
+          "type": "email",
+          "required": false,
+          "ariaRequired": "true",
+          "willValidate": true,
+          "validationMessage": ""
+        },
+        {
+          "name": "mensaje",
+          "type": "textarea",
+          "required": false,
+          "ariaRequired": "true",
+          "willValidate": true,
+          "validationMessage": ""
+        },
+        {
+          "name": "",
+          "type": "submit",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": true,
+          "validationMessage": ""
+        }
+      ]
+    },
+    {
+      "action": "https://translate.googleapis.com/translate_voting?client=te",
+      "method": "post",
+      "noValidate": false,
+      "fields": [
+        {
+          "name": "sl",
+          "type": "text",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": true,
+          "validationMessage": ""
+        },
+        {
+          "name": "tl",
+          "type": "text",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": true,
+          "validationMessage": ""
+        },
+        {
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": true,
+          "validationMessage": ""
+        },
+        {
+          "name": "gtrans",
+          "type": "text",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": true,
+          "validationMessage": ""
+        },
+        {
+          "name": "vote",
+          "type": "text",
+          "required": false,
+          "ariaRequired": null,
+          "willValidate": true,
+          "validationMessage": ""
+        }
+      ]
+    }
+  ],
+  "consoleErrors": [
+    "%c%d font-size:0;color:transparent NaN",
+    "%c%d font-size:0;color:transparent NaN"
+  ],
+  "failedRequests": [
+    {
+      "url": "https://www.dgcp.gob.do/contacto/",
+      "error": "net::ERR_ABORTED"
+    }
+  ]
+}

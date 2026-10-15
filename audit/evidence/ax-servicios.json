@@ -1,0 +1,485 @@
+[
+  {
+    "role": "link",
+    "name": "Ir al contenido principal",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 206
+  },
+  {
+    "role": "link",
+    "name": "Reproducir o pausar animaciones",
+    "description": "Pausar Animaciones",
+    "ignored": false,
+    "backendDOMNodeId": 207
+  },
+  {
+    "role": "image",
+    "name": "Dominican flag",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 69
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 301
+  },
+  {
+    "role": "link",
+    "name": "DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 320
+  },
+  {
+    "role": "link",
+    "name": "SISTEMA ELECTRÓNICO",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 323
+  },
+  {
+    "role": "link",
+    "name": "RICG",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 823
+  },
+  {
+    "role": "link",
+    "name": "Open Contracting",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 825
+  },
+  {
+    "role": "link",
+    "name": "CoST Iniciativa de transparencia en Infraestructura",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 827
+  },
+  {
+    "role": "button",
+    "name": "Menú de Accesibilidad",
+    "description": "Menú de Accesibilidad",
+    "ignored": false,
+    "backendDOMNodeId": 191
+  },
+  {
+    "role": "button",
+    "name": " Buscar",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 8
+  },
+  {
+    "role": "button",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 337
+  },
+  {
+    "role": "link",
+    "name": "ES ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 423
+  },
+  {
+    "role": "link",
+    "name": "Inicio",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 528
+  },
+  {
+    "role": "link",
+    "name": "Transparencia",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 19
+  },
+  {
+    "role": "link",
+    "name": "Noticias",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 20
+  },
+  {
+    "role": "link",
+    "name": "MIPYMEs",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 26
+  },
+  {
+    "role": "link",
+    "name": "Contactos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 27
+  },
+  {
+    "role": "image",
+    "name": "Servicio al Usuario",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 34
+  },
+  {
+    "role": "link",
+    "name": "Inscripción en el Registro de Proveedores del Estado (RPE) Inscripción en el Registro de Proveedores",
+    "description": "¡Anímate a ser proveedor/a del Estado dominicano!",
+    "ignored": false,
+    "backendDOMNodeId": 651
+  },
+  {
+    "role": "link",
+    "name": "Actualización del Registro de Proveedores del Estado (RPE) Actualización en el Registro de Proveedores",
+    "description": "Tu oferta puede ser la ganadora ¡no te quedes fuera! mantén tus datos actualizados.",
+    "ignored": false,
+    "backendDOMNodeId": 683
+  },
+  {
+    "role": "link",
+    "name": "Vinculación de usuario en el Sistema Electrónico de Contrataciones Públicas (Membresía) Vinculación de usuario en el Sistema Electrónico de Contrataciones Públicas (Membresía)",
+    "description": "¡Pasos para presentar tus ofertas en línea! Mediante este servicio solicitas la vinculación de tu usuario de acceso al Sistema Electrónico de Contrataciones Públicas (SECP) a un Registro de Proveedor del Estado (RPE). Esta vinculación de usuario te permitirá presentar tus ofertas en los procesos de compras y contrataciones que las diferentes instituciones convocan a...",
+    "ignored": false,
+    "backendDOMNodeId": 715
+  },
+  {
+    "role": "link",
+    "name": "Capacitaciones Capacitaciones",
+    "description": "¡Te ayudamos a desarrollar tus capacidades sobre el SNCCP! Desde la DGCP ofrecemos una serie de capacitaciones sobre el Sistema Nacional de Compras y Contrataciones Públicas (SNCCP) que buscan sensibilizar y orientar a todos los actores del sistema.",
+    "ignored": false,
+    "backendDOMNodeId": 748
+  },
+  {
+    "role": "link",
+    "name": "Creación de unidad de compra Creación de unidad de compra",
+    "description": "¡Ejecuta tus procesos a través del Sistema Electrónico de Contrataciones Públicas (SECP)! Mediante este servicio, como institución pública sujeta al ámbito de aplicación de la Ley Núm. 340-06 y sus modificaciones, solicitas a esta Dirección General la creación de la unidad de compra de tu entidad en el Sistema Electrónico de Contrataciones Públicas, como parte...",
+    "ignored": false,
+    "backendDOMNodeId": 782
+  },
+  {
+    "role": "image",
+    "name": "RICG",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 41
+  },
+  {
+    "role": "image",
+    "name": "Open Contracting",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 42
+  },
+  {
+    "role": "image",
+    "name": "CoST Iniciativa de transparencia en Infraestructura",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 43
+  },
+  {
+    "role": "image",
+    "name": "DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 4
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 12
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 48
+  },
+  {
+    "role": "button",
+    "name": "Nosotros ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 530
+  },
+  {
+    "role": "button",
+    "name": "Servicios ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 18
+  },
+  {
+    "role": "button",
+    "name": "Sistema de Información ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 22
+  },
+  {
+    "role": "button",
+    "name": "Interés ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 25
+  },
+  {
+    "role": "link",
+    "name": "INICIO",
+    "description": "Clic para acceder al enlace",
+    "ignored": false,
+    "backendDOMNodeId": 637
+  },
+  {
+    "role": "link",
+    "name": "Carta Compromiso al Ciudadano",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 647
+  },
+  {
+    "role": "link",
+    "name": "Descargar",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 29
+  },
+  {
+    "role": "link",
+    "name": "» Accede a nuestro formulario de quejas y sugerencias",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 818
+  },
+  {
+    "role": "link",
+    "name": "Facebook",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 911
+  },
+  {
+    "role": "link",
+    "name": "Twitter",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 914
+  },
+  {
+    "role": "link",
+    "name": "Youtube",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 917
+  },
+  {
+    "role": "link",
+    "name": "Instagram",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 920
+  },
+  {
+    "role": "link",
+    "name": "TikTok",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 923
+  },
+  {
+    "role": "link",
+    "name": "Linkedin",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 926
+  },
+  {
+    "role": "image",
+    "name": "Inscripción en el Registro de Proveedores del Estado (RPE)",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 36
+  },
+  {
+    "role": "image",
+    "name": "Actualización del Registro de Proveedores del Estado (RPE)",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 37
+  },
+  {
+    "role": "image",
+    "name": "Vinculación de usuario en el Sistema Electrónico de Contrataciones Públicas (Membresía)",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 38
+  },
+  {
+    "role": "image",
+    "name": "Capacitaciones",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 39
+  },
+  {
+    "role": "image",
+    "name": "Creación de unidad de compra",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 40
+  },
+  {
+    "role": "image",
+    "name": "Isotipo DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 44
+  },
+  {
+    "role": "image",
+    "name": "Logo GOB",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 46
+  },
+  {
+    "role": "link",
+    "name": "Contacto",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 848
+  },
+  {
+    "role": "link",
+    "name": "(809) 682-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 851
+  },
+  {
+    "role": "link",
+    "name": "(829) 681-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 852
+  },
+  {
+    "role": "link",
+    "name": "direcciongeneral@dgcp.gob.do",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 854
+  },
+  {
+    "role": "link",
+    "name": "Calle Pedro A. Lluberes #10204, Esq. Manuel Rodríguez Objío, Gascue, Santo Domingo, República Dominicana",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 859
+  },
+  {
+    "role": "link",
+    "name": "Términos de Uso",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 864
+  },
+  {
+    "role": "link",
+    "name": "Políticas de Privacidad",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 866
+  },
+  {
+    "role": "link",
+    "name": "Preguntas Frecuentes",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 868
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 880
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 883
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 886
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 889
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 892
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 895
+  },
+  {
+    "role": "link",
+    "name": "Sello Igualando RD Oro",
+    "description": "Sello Igualando RD",
+    "ignored": false,
+    "backendDOMNodeId": 897
+  },
+  {
+    "role": "link",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "NORDOM ISO 37001: 2016",
+    "ignored": false,
+    "backendDOMNodeId": 900
+  },
+  {
+    "role": "image",
+    "name": "Sello Igualando RD Oro",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 898
+  },
+  {
+    "role": "image",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 901
+  }
+]

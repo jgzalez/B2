@@ -1,0 +1,800 @@
+[
+  {
+    "role": "link",
+    "name": "Ir al contenido principal",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 259
+  },
+  {
+    "role": "link",
+    "name": "Reproducir o pausar animaciones",
+    "description": "Pausar Animaciones",
+    "ignored": false,
+    "backendDOMNodeId": 260
+  },
+  {
+    "role": "image",
+    "name": "Dominican flag",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 109
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 354
+  },
+  {
+    "role": "link",
+    "name": "DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 373
+  },
+  {
+    "role": "link",
+    "name": "SISTEMA ELECTRÓNICO",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 375
+  },
+  {
+    "role": "link",
+    "name": "RICG",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 861
+  },
+  {
+    "role": "link",
+    "name": "Open Contracting",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 863
+  },
+  {
+    "role": "link",
+    "name": "CoST Iniciativa de transparencia en Infraestructura",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 865
+  },
+  {
+    "role": "button",
+    "name": "Menú de Accesibilidad",
+    "description": "Menú de Accesibilidad",
+    "ignored": false,
+    "backendDOMNodeId": 244
+  },
+  {
+    "role": "button",
+    "name": " Buscar",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 7
+  },
+  {
+    "role": "button",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 389
+  },
+  {
+    "role": "link",
+    "name": "ES ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 476
+  },
+  {
+    "role": "link",
+    "name": "Inicio",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 582
+  },
+  {
+    "role": "link",
+    "name": "Transparencia",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 603
+  },
+  {
+    "role": "link",
+    "name": "Noticias",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 604
+  },
+  {
+    "role": "link",
+    "name": "MIPYMEs",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 642
+  },
+  {
+    "role": "link",
+    "name": "Contactos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 644
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 95
+  },
+  {
+    "role": "image",
+    "name": "RICG",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 28
+  },
+  {
+    "role": "image",
+    "name": "Open Contracting",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 29
+  },
+  {
+    "role": "image",
+    "name": "CoST Iniciativa de transparencia en Infraestructura",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 30
+  },
+  {
+    "role": "image",
+    "name": "DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 3
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 11
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 35
+  },
+  {
+    "role": "button",
+    "name": "Nosotros ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 584
+  },
+  {
+    "role": "button",
+    "name": "Servicios ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 595
+  },
+  {
+    "role": "button",
+    "name": "Sistema de Información ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 606
+  },
+  {
+    "role": "button",
+    "name": "Interés ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 616
+  },
+  {
+    "role": "link",
+    "name": "INICIO",
+    "description": "Clic para acceder al enlace",
+    "ignored": false,
+    "backendDOMNodeId": 703
+  },
+  {
+    "role": "link",
+    "name": "SOBRE NOSOTROS",
+    "description": "Clic para acceder al enlace",
+    "ignored": false,
+    "backendDOMNodeId": 706
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir en Facebook",
+    "ignored": false,
+    "backendDOMNodeId": 732
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir en Twitter",
+    "ignored": false,
+    "backendDOMNodeId": 733
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir en LinkedIn",
+    "ignored": false,
+    "backendDOMNodeId": 734
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Compartir por Email",
+    "ignored": false,
+    "backendDOMNodeId": 735
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "Imprimir",
+    "ignored": false,
+    "backendDOMNodeId": 736
+  },
+  {
+    "role": "link",
+    "name": "Leyes, Decretos y Normas Vinculadas al SNCCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 739
+  },
+  {
+    "role": "link",
+    "name": "Resoluciones de Investigaciones y Reclamos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 745
+  },
+  {
+    "role": "link",
+    "name": "Resoluciones de Políticas",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 751
+  },
+  {
+    "role": "link",
+    "name": "Circulares",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 757
+  },
+  {
+    "role": "link",
+    "name": "Código de Pautas Éticas del SNCCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 763
+  },
+  {
+    "role": "link",
+    "name": "Resoluciones de Umbrales",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 769
+  },
+  {
+    "role": "link",
+    "name": "Metodología PACC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 775
+  },
+  {
+    "role": "link",
+    "name": "Manuales de Procedimientos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 782
+  },
+  {
+    "role": "link",
+    "name": "Documentos Estándar",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 789
+  },
+  {
+    "role": "link",
+    "name": "Formularios Estándar de Servicios",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 797
+  },
+  {
+    "role": "link",
+    "name": "Guías del Sistema Nacional de Compras y Contrataciones Públicas (SNCCP)",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 807
+  },
+  {
+    "role": "link",
+    "name": "Instructivos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 817
+  },
+  {
+    "role": "link",
+    "name": "Actos Administrativos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 827
+  },
+  {
+    "role": "link",
+    "name": "Procedimientos especiales",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 837
+  },
+  {
+    "role": "link",
+    "name": "Reglamentos Especiales",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 847
+  },
+  {
+    "role": "link",
+    "name": "Facebook",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 949
+  },
+  {
+    "role": "link",
+    "name": "Twitter",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 952
+  },
+  {
+    "role": "link",
+    "name": "Youtube",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 955
+  },
+  {
+    "role": "link",
+    "name": "Instagram",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 958
+  },
+  {
+    "role": "link",
+    "name": "TikTok",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 961
+  },
+  {
+    "role": "link",
+    "name": "Linkedin",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 964
+  },
+  {
+    "role": "link",
+    "name": "Sobre Nosotros",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 717
+  },
+  {
+    "role": "link",
+    "name": "¿Quiénes Somos?",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 719
+  },
+  {
+    "role": "link",
+    "name": "Historia",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 721
+  },
+  {
+    "role": "link",
+    "name": "Organigrama",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 723
+  },
+  {
+    "role": "link",
+    "name": "Despacho del Director",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 725
+  },
+  {
+    "role": "link",
+    "name": "Marco Legal",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 727
+  },
+  {
+    "role": "link",
+    "name": "Gestión de la Calidad",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 729
+  },
+  {
+    "role": "link",
+    "name": "Icono Documentos Leyes, Decretos y Normas Vinculadas al SNCCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 740
+  },
+  {
+    "role": "link",
+    "name": "Icono Documentos Resoluciones de Investigaciones y Reclamos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 746
+  },
+  {
+    "role": "link",
+    "name": "Icono Documentos Resoluciones de Políticas",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 752
+  },
+  {
+    "role": "link",
+    "name": "Icono Documentos Circulares",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 758
+  },
+  {
+    "role": "link",
+    "name": "Registro de Proveedores Código de Pautas Éticas del SNCCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 764
+  },
+  {
+    "role": "link",
+    "name": "Icono Documentos Resoluciones de Umbrales",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 770
+  },
+  {
+    "role": "link",
+    "name": "Icono Documentos Metodología PACC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 776
+  },
+  {
+    "role": "link",
+    "name": "Icono Documentos Manuales de Procedimientos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 783
+  },
+  {
+    "role": "link",
+    "name": "Icono Documentos Documentos Estándar",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 790
+  },
+  {
+    "role": "link",
+    "name": "Icono Formularios Estándar de Servicios",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 799
+  },
+  {
+    "role": "link",
+    "name": "Icono Guías del Sistema Nacional de Compras y Contrataciones Públicas (SNCCP)",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 809
+  },
+  {
+    "role": "link",
+    "name": "Icono Instructivos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 819
+  },
+  {
+    "role": "link",
+    "name": "Icono Actos Administrativos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 829
+  },
+  {
+    "role": "link",
+    "name": "Icono Procedimientos especiales",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 839
+  },
+  {
+    "role": "link",
+    "name": "Icono Reglamentos Especiales",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 849
+  },
+  {
+    "role": "image",
+    "name": "Isotipo DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 31
+  },
+  {
+    "role": "image",
+    "name": "Logo GOB",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 33
+  },
+  {
+    "role": "link",
+    "name": "Contacto",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 886
+  },
+  {
+    "role": "link",
+    "name": "(809) 682-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 889
+  },
+  {
+    "role": "link",
+    "name": "(829) 681-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 890
+  },
+  {
+    "role": "link",
+    "name": "direcciongeneral@dgcp.gob.do",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 892
+  },
+  {
+    "role": "link",
+    "name": "Calle Pedro A. Lluberes #10204, Esq. Manuel Rodríguez Objío, Gascue, Santo Domingo, República Dominicana",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 897
+  },
+  {
+    "role": "link",
+    "name": "Términos de Uso",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 902
+  },
+  {
+    "role": "link",
+    "name": "Políticas de Privacidad",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 904
+  },
+  {
+    "role": "link",
+    "name": "Preguntas Frecuentes",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 906
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 918
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 921
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 924
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 927
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 930
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 933
+  },
+  {
+    "role": "link",
+    "name": "Sello Igualando RD Oro",
+    "description": "Sello Igualando RD",
+    "ignored": false,
+    "backendDOMNodeId": 935
+  },
+  {
+    "role": "link",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "NORDOM ISO 37001: 2016",
+    "ignored": false,
+    "backendDOMNodeId": 938
+  },
+  {
+    "role": "image",
+    "name": "Sello Igualando RD Oro",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 936
+  },
+  {
+    "role": "image",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 939
+  },
+  {
+    "role": "image",
+    "name": "Icono Documentos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 13
+  },
+  {
+    "role": "image",
+    "name": "Icono Documentos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 14
+  },
+  {
+    "role": "image",
+    "name": "Icono Documentos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 15
+  },
+  {
+    "role": "image",
+    "name": "Icono Documentos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 16
+  },
+  {
+    "role": "image",
+    "name": "Registro de Proveedores",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 17
+  },
+  {
+    "role": "image",
+    "name": "Icono Documentos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 18
+  },
+  {
+    "role": "image",
+    "name": "Icono Documentos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 19
+  },
+  {
+    "role": "image",
+    "name": "Icono Documentos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 20
+  },
+  {
+    "role": "image",
+    "name": "Icono Documentos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 21
+  },
+  {
+    "role": "image",
+    "name": "Icono",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 22
+  },
+  {
+    "role": "image",
+    "name": "Icono",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 23
+  },
+  {
+    "role": "image",
+    "name": "Icono",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 24
+  },
+  {
+    "role": "image",
+    "name": "Icono",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 25
+  },
+  {
+    "role": "image",
+    "name": "Icono",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 26
+  },
+  {
+    "role": "image",
+    "name": "Icono",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 27
+  }
+]

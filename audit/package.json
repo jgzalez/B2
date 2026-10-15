@@ -1,0 +1,13 @@
+{
+  "name": "dgcp-nortic-b2-audit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reproducible accessibility evidence collector for the DGCP NORTIC B2:2017 audit",
+  "dependencies": {
+    "@axe-core/playwright": "^4.10.2",
+    "axe-core": "^4.10.2",
+    "exceljs": "^4.4.0",
+    "lighthouse": "^12.8.2",
+    "playwright-core": "^1.55.1"
+  }
+}

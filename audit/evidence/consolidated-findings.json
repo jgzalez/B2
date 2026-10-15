@@ -1,0 +1,300 @@
+{
+  "date": "2026-10-14",
+  "statusCounts": {
+    "NO CUMPLE": 13,
+    "CUMPLE": 11,
+    "PENDIENTE DE VERIFICACIÓN": 13
+  },
+  "criteria": {
+    "1.04.": {
+      "status": "NO CUMPLE",
+      "justification": "La política POL.DGCP.DC.002 existe, pero no satisface íntegramente 1.04.c y falta evidencia contractual para 1.04.f. Evidencia: documento adjunto, págs. 3, 5-8; E-10."
+    },
+    "1.04.a.": {
+      "status": "CUMPLE",
+      "justification": "POL.DGCP.DC.002 es un documento independiente, aprobado y firmado, denominado “Gestión y Accesibilidad de portales Web”. Evidencia: págs. 1-2 y 8; E-10."
+    },
+    "1.04.b.": {
+      "status": "CUMPLE",
+      "justification": "POL.DGCP.DC.002 §3.9 asigna al webmaster la supervisión y garantía de implementación de la política. Evidencia: pág. 6; E-10."
+    },
+    "1.04.c.": {
+      "status": "NO CUMPLE",
+      "justification": "La política contiene objetivo, alcance, entrada en vigor y monitoreo, pero no declara nivel de conformidad y no se identifica un preámbulo; el conjunto obligatorio está incompleto. Evidencia: págs. 3 y 6; E-10."
+    },
+    "1.04.d.": {
+      "status": "CUMPLE",
+      "justification": "POL.DGCP.DC.002 §3.6 inventaría portal institucional, Transparencia y vista pública de Comunidad Compras Dominicana. Evidencia: pág. 5; E-10."
+    },
+    "1.04.e.": {
+      "status": "CUMPLE",
+      "justification": "POL.DGCP.DC.002 §3.12 establece vigencia anual y revisión/actualización al cumplirse la fecha. Evidencia: pág. 6; E-10."
+    },
+    "1.04.f.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "Se menciona contratación de alojamiento conforme al SNCCP (§3.4), pero no se aportaron pliegos/contratos de desarrollo externo que exijan accesibilidad; el supuesto y la cláusula deben verificarse. E-10."
+    },
+    "2.01.": {
+      "status": "NO CUMPLE",
+      "justification": "La muestra contiene infracciones Nivel A reproducibles (alternativas textuales, teclado, relaciones, propósito de enlaces, nombre/función/valor); por tanto no alcanza Nivel A y menos los niveles superiores. E-01 a E-09."
+    },
+    "2.02.": {
+      "status": "NO CUMPLE",
+      "justification": "Las infracciones se encuentran en páginas completas y componentes compartidos de las 11 rutas; no puede afirmarse conformidad de todas las páginas/secciones. E-01 a E-09."
+    },
+    "2.03.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "No se identificó dentro del dominio un proceso público multietapa completo comparable al ejemplo normativo; los trámites enlazados conducen a sistemas externos excluidos. Requiere inventario institucional de procesos."
+    },
+    "2.04.": {
+      "status": "NO CUMPLE",
+      "justification": "Se usan PDFs sin etiquetado/StructTreeRoot y componentes con nombres programáticos ausentes. La muestra documental no es accesiblemente soportada. E-06, E-11."
+    },
+    "2.05.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "No se ejecutó una matriz completa con JavaScript, traductor, chat y widget de accesibilidad habilitados/inhabilitados/no soportados. Axe sí detectó iframes y controles de terceros sin nombre; se requiere prueba de no interferencia."
+    },
+    "3.01.1.a.": {
+      "status": "NO CUMPLE",
+      "justification": "Imágenes funcionales y de contenido carecen de alt (p. ej. servicios_portal.jpg, Fachada-DGCP.jpg, banderas y plugin-pdf.png); existen enlaces gráficos sin nombre. E-01, E-02, E-09."
+    },
+    "3.01.2.a.": {
+      "status": "CUMPLE",
+      "justification": "En la muestra, el audiolibro de la Ley 47-25 tiene controles nativos, no usa autoplay y ofrece inmediatamente la ley en texto descargable. El PDF no está etiquetado, deficiencia evaluada en 2.04/3.01.3.a. E-05, E-11."
+    },
+    "3.01.2.b.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "No se localizó contenido multimedia sincronizado institucional representativo en las 11 páginas que permitiera comprobar subtítulos. No se clasifica como NO APLICA sin inventario completo."
+    },
+    "3.01.2.c.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "No se localizó video pregrabado institucional representativo para comprobar audiodescripción o alternativa. No se clasifica como NO APLICA sin inventario completo."
+    },
+    "3.01.3.a.": {
+      "status": "NO CUMPLE",
+      "justification": "Hay jerarquías de encabezados saltadas, listas inválidas, controles sin etiquetas y cuatro PDFs sin árbol de estructura. E-01, E-02, E-06, E-11."
+    },
+    "3.01.3.b.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "Se registró el orden secuencial de foco, pero no se verificó manualmente la secuencia de lectura completa con lector de pantalla ni la correspondencia visual/DOM en todas las plantillas."
+    },
+    "3.01.3.c.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "No se encontró una infracción concreta en la muestra, pero no se revisó exhaustivamente toda instrucción del dominio. No se infiere cumplimiento global por ausencia en la muestra."
+    },
+    "3.01.4.a.": {
+      "status": "NO CUMPLE",
+      "justification": "axe/Lighthouse identificaron enlaces dentro de texto distinguibles solo por color y contrastes que agravan esa dependencia en inicio, contacto y publicaciones. E-01 y E-02."
+    },
+    "3.01.4.b.": {
+      "status": "CUMPLE",
+      "justification": "El audio institucional localizado no se reproduce automáticamente y expone controles nativos; no se detectó audio automático >3 s en las 11 ejecuciones axe. E-01, E-05."
+    },
+    "3.02.1.a.": {
+      "status": "NO CUMPLE",
+      "justification": "Controles declarados role=\"button\" no responden a Espacio: “Nosotros” no expande (aria-expanded permanece false) y #btn1 no cambia de estado; Enter en “Nosotros” navega en vez de abrir el submenú. E-04."
+    },
+    "3.02.1.b.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "Tab/Shift+Tab no mostraron trampa en la cabecera y se recorrieron hasta 45 paradas por página, pero no se activaron todos los widgets de terceros ni se completó cada página hasta volver al inicio. E-03, E-04."
+    },
+    "3.02.2.a.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "No se observaron límites de tiempo en la muestra; falta inventario funcional completo para demostrar que no existen en el alcance."
+    },
+    "3.02.2.b.": {
+      "status": "CUMPLE",
+      "justification": "La portada ofrece control programático “Pausar animaciones” y controles anterior/siguiente para el carrusel. Es activable con Enter; la falla con Espacio se registra bajo 3.02.1.a. E-04, E-05."
+    },
+    "3.02.3.a.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "No se ejecutó análisis fotométrico/frecuencia cuadro a cuadro. No se observó destello evidente en capturas, lo cual no basta para dictamen."
+    },
+    "3.02.4.a.": {
+      "status": "CUMPLE",
+      "justification": "Existe <a class=\"skip-link\" href=\"#informacion\">Ir al contenido principal</a>; el destino <main id=\"informacion\"> existe y el enlace fue la primera parada en la ejecución limpia. E-04, E-05."
+    },
+    "3.02.4.b.": {
+      "status": "CUMPLE",
+      "justification": "Las 11 rutas devuelven títulos no vacíos y descriptivos de la página/consulta. E-03 y E-07."
+    },
+    "3.02.4.c.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "Tab y Shift+Tab conservaron el orden en la cabecera; no se recorrió manualmente la totalidad de cada DOM ni todos los estados dinámicos. E-03, E-04."
+    },
+    "3.02.4.d.": {
+      "status": "NO CUMPLE",
+      "justification": "Hay enlaces sin nombre discernible y 24 enlaces “Más información” en la portada con nombres accesibles iguales y destinos distintos; varios carecen de contexto programático suficiente. E-01, E-05, E-09."
+    },
+    "3.03.1.a.": {
+      "status": "CUMPLE",
+      "justification": "Las 11 páginas declaran idioma principal válido: lang=\"es\" o lang=\"es-es\". E-03."
+    },
+    "3.03.2.a.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "El recorrido de foco no produjo cambio de contexto en la cabecera, pero no se probaron todos los controles/widgets del dominio en todos sus estados. E-03, E-04."
+    },
+    "3.03.2.b.": {
+      "status": "PENDIENTE DE VERIFICACIÓN",
+      "justification": "El buscador cambia de contexto tras Enter, comportamiento esperado de envío; no se probaron todas las entradas/selecciones ni sus avisos previos. E-04."
+    },
+    "3.03.3.a.": {
+      "status": "CUMPLE",
+      "justification": "El formulario de contacto marca nombre/correo con aria-invalid=true, enlaza mensajes mediante aria-describedby y muestra texto específico para vacío/correo inválido. E-04 y captura contact-errors.png."
+    },
+    "3.03.3.b.": {
+      "status": "NO CUMPLE",
+      "justification": "Aunque contacto tiene <label>, el buscador usa solo placeholder y los select de Noticias/Publicaciones carecen de label, aria-label y aria-labelledby. E-01, E-02, E-09."
+    },
+    "3.04.1.a.": {
+      "status": "NO CUMPLE",
+      "justification": "El DOM renderizado contiene IDs duplicados compartidos (collapseMain, collapsePortales, collapseInternos, current-lang) y decenas adicionales en Transparencia; la lista del carrusel contiene button como hijos directos de ol. E-03, E-09."
+    },
+    "3.04.1.b.": {
+      "status": "NO CUMPLE",
+      "justification": "Control de menú sin nombre, selects sin nombre, enlaces gráficos vacíos e iframe de Google Maps sin title impiden determinar nombre/función programáticamente. E-01, E-02, E-09."
+    }
+  },
+  "findings": [
+    {
+      "id": "F-01",
+      "priority": "CRÍTICA",
+      "criteria": "3.01.1.a.; 3.02.4.d.; 3.04.1.b.",
+      "title": "Imágenes y enlaces gráficos sin alternativa/nombre",
+      "scope": "Inicio; Contacto; Transparencia; todas las plantillas (banderas)",
+      "html": "<img src=\".../servicios_portal.jpg\" class=\"img-fluid\">; <img src=\".../Fachada-DGCP.jpg\" loading=\"lazy\">",
+      "description": "Las imágenes funcionales y de contenido no tienen alt; el enlace que envuelve servicios_portal.jpg queda sin nombre.",
+      "impact": "Lectores de pantalla no anuncian propósito o contenido; el enlace resulta inutilizable.",
+      "method": "axe-core image-alt/link-name; Lighthouse; inspección DOM",
+      "reproduce": "Abrir URL, ejecutar axe; localizar los selectores registrados en axe/*.json.",
+      "solution": "Añadir alt equivalente a imágenes informativas/funcionales; alt=\"\" y role=\"presentation\" solo si son decorativas; nombrar el enlace por texto/aria-label.",
+      "evidence": "E-01, E-02, E-09"
+    },
+    {
+      "id": "F-02",
+      "priority": "CRÍTICA",
+      "criteria": "3.04.1.b.",
+      "title": "Control compartido sin nombre accesible",
+      "scope": "Las 11 URL",
+      "html": "<a class=\"menu-item dropdown-toggle p-0\" ... role=\"button\" aria-controls=\"collapseMain\">",
+      "description": "El disparador del menú de cuadrícula no tiene texto, aria-label, aria-labelledby ni title.",
+      "impact": "Usuario de lector de pantalla encuentra “botón” sin propósito.",
+      "method": "axe-core aria-command-name en 11/11; Lighthouse 6/6",
+      "reproduce": "Ejecutar axe y filtrar aria-command-name.",
+      "solution": "Usar <button type=\"button\" aria-label=\"Abrir enlaces de interés\" ...> y mantener aria-expanded sincronizado.",
+      "evidence": "E-01, E-02"
+    },
+    {
+      "id": "F-03",
+      "priority": "ALTA",
+      "criteria": "3.03.3.b.; 3.04.1.b.",
+      "title": "Campos y filtros sin etiqueta programática",
+      "scope": "Inicio, Noticias, Publicaciones, Contacto",
+      "html": "<select id=\"categoria\" ...>; <select name=\"tags_publicaciones\" ...>; <input name=\"s\" placeholder=\"¿Qué deseas buscar?\">",
+      "description": "Tres select de Noticias, dos de Publicaciones y buscadores dependen de placeholder/opción visible.",
+      "impact": "No se comunica propósito fiable al lector de pantalla; dictado por voz no dispone de etiqueta estable.",
+      "method": "axe-core select-name; Lighthouse; DOM",
+      "reproduce": "Ejecutar axe en /noticias/ y /publicaciones/; inspeccionar labels/ARIA.",
+      "solution": "Agregar <label for> visible; si el diseño lo exige, etiqueta visualmente oculta, no solo placeholder.",
+      "evidence": "E-01, E-02, E-09"
+    },
+    {
+      "id": "F-04",
+      "priority": "ALTA",
+      "criteria": "3.02.1.a.",
+      "title": "Activación incompleta por teclado en controles con role=button",
+      "scope": "Inicio/encabezado compartido",
+      "html": "<a ... role=\"button\">Nosotros...</a>; <a id=\"btn1\" ... type=\"button\">",
+      "description": "Espacio no cambia aria-expanded del menú ni el estado/título de #btn1; Enter en “Nosotros” navega a otra URL.",
+      "impact": "Personas que usan teclado no pueden operar la función expuesta como botón de forma equivalente.",
+      "method": "Playwright: Enter/Espacio, lectura de URL, aria-expanded y title",
+      "reproduce": "Enfocar “Nosotros”, pulsar Espacio: aria-expanded sigue false. Enfocar #btn1 y pulsar Espacio: title no cambia.",
+      "solution": "Usar <button>; manejar Enter y Espacio; separar enlace de navegación del botón que expande; probar estados y aria-expanded.",
+      "evidence": "E-04"
+    },
+    {
+      "id": "F-05",
+      "priority": "ALTA",
+      "criteria": "3.02.4.d.",
+      "title": "Enlaces ambiguos “Más información” y enlaces vacíos",
+      "scope": "Inicio y Marco legal",
+      "html": "<a ...>Más información</a> (24 en inicio); <a href=\"...Login.aspx\"><img ... sin alt></a>",
+      "description": "Muchos enlaces comparten nombre accesible genérico con destinos diferentes; otros no tienen nombre.",
+      "impact": "La lista de enlaces de un lector de pantalla no permite escoger destino.",
+      "method": "DOM renderizado; axe link-name; Lighthouse",
+      "reproduce": "Listar enlaces cuyo texto coincide con “Más información”; comparar href y nombre accesible.",
+      "solution": "Incluir destino en el nombre visible: “Más información sobre …”; asociar mediante aria-labelledby al título de la tarjeta.",
+      "evidence": "E-01, E-05, E-09"
+    },
+    {
+      "id": "F-06",
+      "priority": "ALTA",
+      "criteria": "3.01.3.a.; 3.04.1.a.",
+      "title": "Estructura HTML inconsistente e IDs duplicados",
+      "scope": "Todas; especialmente Inicio y Transparencia",
+      "html": "<ol class=\"carousel-indicators\"><button ...>; ids collapseMain/current-lang repetidos",
+      "description": "Saltos H1-H4/H5, lista con hijos button y IDs repetidos comprometen relaciones y parseo.",
+      "impact": "La navegación por encabezados y las relaciones ARIA/fragmentos pueden ser ambiguas.",
+      "method": "axe list/heading-order; inspección DOM duplicateIds",
+      "reproduce": "Ejecutar recolector y revisar dom/*.json: headings y duplicateIds.",
+      "solution": "Jerarquía H1→H2→H3; envolver botones en li o usar div; generar IDs únicos y ajustar referencias.",
+      "evidence": "E-01, E-02, E-03, E-09"
+    },
+    {
+      "id": "F-07",
+      "priority": "ALTA",
+      "criteria": "2.04.; 3.01.3.a.",
+      "title": "PDF públicos sin etiquetado estructural",
+      "scope": "Ley 47-25; revista 2025; estudio mujeres MIPYMES; formulario RPE",
+      "html": "/MarkInfo ausente o /Marked=false; /StructTreeRoot ausente en 4/4",
+      "description": "Ninguno de los cuatro documentos tiene etiquetas; tres no declaran /Lang y la revista declara en-US.",
+      "impact": "Lectura lineal, encabezados, listas, tablas y orden no se transmiten correctamente a tecnología asistiva.",
+      "method": "pypdf 6.1.1 y pdfinfo; inspection.json",
+      "reproduce": "Descargar archivos listados y ejecutar inspect-pdfs.py/pdfinfo -meta.",
+      "solution": "Remediar en archivo fuente/PDF: etiquetas, orden, encabezados, alt, idioma es-DO, título y campos etiquetados; validar con PAC/Acrobat.",
+      "evidence": "E-11"
+    },
+    {
+      "id": "F-08",
+      "priority": "ALTA",
+      "criteria": "3.01.4.a.",
+      "title": "Enlaces diferenciados solo por color",
+      "scope": "Inicio, Contacto, Publicaciones",
+      "html": "Enlaces dentro de bloques de texto sin subrayado/indicador no cromático",
+      "description": "axe reporta link-in-text-block; Lighthouse registra contrastes deficientes, incluido 2.67:1 en breadcrumb.",
+      "impact": "Personas con deficiencia de percepción cromática pueden no reconocer enlaces.",
+      "method": "axe-core link-in-text-block; Lighthouse color-contrast",
+      "reproduce": "Abrir reporte Lighthouse/axe y localizar selectores.",
+      "solution": "Subrayar enlaces o añadir otro indicador persistente; corregir colores. El contraste es además deuda AA aunque no sea el único fundamento A.",
+      "evidence": "E-01, E-02"
+    },
+    {
+      "id": "F-09",
+      "priority": "MEDIA",
+      "criteria": "3.01.1.a.; 3.04.1.b.",
+      "title": "Iframe de mapa sin nombre",
+      "scope": "Contacto",
+      "html": "<iframe class=\"embed-responsive-item\" src=\"https://www.google.com/maps/embed?...\" allowfullscreen>",
+      "description": "El iframe no tiene title/aria-label.",
+      "impact": "El lector de pantalla no puede identificar el contenido incrustado.",
+      "method": "axe frame-title; Lighthouse",
+      "reproduce": "Ejecutar axe en /contacto/.",
+      "solution": "Añadir title=\"Mapa de ubicación de la DGCP en Santo Domingo\".",
+      "evidence": "E-01, E-02"
+    },
+    {
+      "id": "F-10",
+      "priority": "MEDIA",
+      "criteria": "1.04.; 1.04.c.; 1.04.f.",
+      "title": "Política interna incompleta frente al formulario",
+      "scope": "Documento POL.DGCP.DC.002",
+      "html": "§3.8–3.13; sin nivel de conformidad declarado ni cláusula contractual aportada",
+      "description": "El documento prueba política/responsable/inventario/revisión, pero no todos los elementos obligatorios.",
+      "impact": "Riesgo de gobernanza y adquisición de componentes inaccesibles.",
+      "method": "Revisión visual de las 8 páginas; documento escaneado sin texto extraíble",
+      "reproduce": "Consultar páginas 3, 5, 6 y 8 de la política adjunta.",
+      "solution": "Actualizar política con preámbulo, nivel objetivo y criterios contractuales verificables; anexar pliegos/contratos.",
+      "evidence": "E-10"
+    }
+  ]
+}

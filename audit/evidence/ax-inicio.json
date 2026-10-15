@@ -1,0 +1,1108 @@
+[
+  {
+    "role": "link",
+    "name": "Ir al contenido principal",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 261
+  },
+  {
+    "role": "link",
+    "name": "Reproducir o pausar animaciones",
+    "description": "Pausar Animaciones",
+    "ignored": false,
+    "backendDOMNodeId": 262
+  },
+  {
+    "role": "image",
+    "name": "Dominican flag",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 109
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 354
+  },
+  {
+    "role": "link",
+    "name": "DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 373
+  },
+  {
+    "role": "link",
+    "name": "SISTEMA ELECTRÓNICO",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 376
+  },
+  {
+    "role": "link",
+    "name": "RICG",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1330
+  },
+  {
+    "role": "link",
+    "name": "Open Contracting",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1333
+  },
+  {
+    "role": "link",
+    "name": "CoST Iniciativa de transparencia en Infraestructura",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1336
+  },
+  {
+    "role": "button",
+    "name": "Menú de Accesibilidad",
+    "description": "Menú de Accesibilidad",
+    "ignored": false,
+    "backendDOMNodeId": 246
+  },
+  {
+    "role": "button",
+    "name": " Buscar",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 9
+  },
+  {
+    "role": "button",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 390
+  },
+  {
+    "role": "link",
+    "name": "ES ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 476
+  },
+  {
+    "role": "link",
+    "name": "Inicio",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 582
+  },
+  {
+    "role": "link",
+    "name": "Transparencia",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 19
+  },
+  {
+    "role": "link",
+    "name": "Noticias",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 20
+  },
+  {
+    "role": "link",
+    "name": "MIPYMEs",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 26
+  },
+  {
+    "role": "link",
+    "name": "Contactos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 27
+  },
+  {
+    "role": "link",
+    "name": "» DESCÁRGALA AQUÍ «",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 956
+  },
+  {
+    "role": "link",
+    "name": "LEY 47-25",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 957
+  },
+  {
+    "role": "link",
+    "name": "Registro de Proveedores Inscripción en el Registro de Proveedores",
+    "description": "Inscripción en el Registro de Proveedores del Estado (RPE)",
+    "ignored": false,
+    "backendDOMNodeId": 964
+  },
+  {
+    "role": "link",
+    "name": "Tablas Actualización en el Registro de Proveedores",
+    "description": "Actualización del Registro de Proveedores del Estado (RPE)",
+    "ignored": false,
+    "backendDOMNodeId": 970
+  },
+  {
+    "role": "link",
+    "name": "Vinculación de usuario en el portal transaccional Vinculación de usuario en el Sistema Electrónico de Contrataciones Públicas (Membresía)",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 976
+  },
+  {
+    "role": "link",
+    "name": "Icono capacitaciones Capacitaciones",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 982
+  },
+  {
+    "role": "link",
+    "name": "Comunidad de Compras Creación de unidad de compra",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 988
+  },
+  {
+    "role": "link",
+    "name": "fach-300x289 DGCP establece orientaciones para uso adecuado de los procedimientos de excepción en las contrataciones públicas 14/10/2026 El Manual de Procedimientos de Excepción orienta a las entidades contratantes sobre las condiciones, requisitos y procedimientos que condicionan su uso. Santo Domingo, R.D..- La Dirección General de Contrataciones Públicas (DGCP) emitió el nuevo Manual General de Procedimientos de Excepción de las Contrataciones Públicas, que establece orientaciones para el uso adecuado de estas modalidades extraordinarias,…",
+    "description": "DGCP establece orientaciones para uso adecuado de los procedimientos de excepción en las contrataciones públicas",
+    "ignored": false,
+    "backendDOMNodeId": 1028
+  },
+  {
+    "role": "link",
+    "name": "FACHADA-002-7-500x300 OCDE destaca liderazgo y capacidades técnicas de la DGCP en materia de integridad 30/09/2026 Un informe del organismo internacional valora las herramientas de gestión de riesgos, las políticas de cumplimiento con el sector privado y la transparencia en las compras públicas dominicanas Santo Domingo, R.D..- La Organización para la Cooperación y Desarrollo Económicos (OCDE) posicionó a la Dirección General de Contrataciones Públicas (DGCP) como un referente técnico clave dentro…",
+    "description": "OCDE destaca liderazgo y capacidades técnicas de la DGCP en materia de integridad",
+    "ignored": false,
+    "backendDOMNodeId": 1037
+  },
+  {
+    "role": "link",
+    "name": "efi2-500x300 Contrataciones Públicas exhorta a proveedores a aprovechar oportunidades de EFICOMPRAS RD 28/09/2026 El órgano rector exhorta a las empresas que comercializan bienes de uso común a incorporarse a la primera tienda virtual del Estado y aprovechar las nuevas oportunidades de participación en las compras públicas Santo Domingo, R.D..- La Dirección General de Contrataciones Públicas (DGCP) exhortó este lunes a las micro, pequeñas y medianas empresas (mipymes) inscritas…",
+    "description": "Contrataciones Públicas exhorta a proveedores a aprovechar oportunidades de EFICOMPRAS RD",
+    "ignored": false,
+    "backendDOMNodeId": 1046
+  },
+  {
+    "role": "link",
+    "name": "MÁS NOTICIAS »",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1056
+  },
+  {
+    "role": "link",
+    "name": "» ACCEDE AQUÍ «",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1064
+  },
+  {
+    "role": "link",
+    "name": "Campus Virtual",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1066
+  },
+  {
+    "role": "image",
+    "name": "RICG",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1331
+  },
+  {
+    "role": "image",
+    "name": "Open Contracting",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1334
+  },
+  {
+    "role": "image",
+    "name": "CoST Iniciativa de transparencia en Infraestructura",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1337
+  },
+  {
+    "role": "image",
+    "name": "DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 4
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 13
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 5
+  },
+  {
+    "role": "button",
+    "name": "Nosotros ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 584
+  },
+  {
+    "role": "button",
+    "name": "Servicios ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 18
+  },
+  {
+    "role": "button",
+    "name": "Sistema de Información ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 22
+  },
+  {
+    "role": "button",
+    "name": "Interés ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 25
+  },
+  {
+    "role": "button",
+    "name": "play",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 59
+  },
+  {
+    "role": "button",
+    "name": "show more media controls",
+    "description": "more options",
+    "ignored": false,
+    "backendDOMNodeId": 45
+  },
+  {
+    "role": "image",
+    "name": "LEY 47-25",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 63
+  },
+  {
+    "role": "image",
+    "name": "FACHADA-002-7-500x300",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 66
+  },
+  {
+    "role": "image",
+    "name": "efi2-500x300",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 67
+  },
+  {
+    "role": "image",
+    "name": "Campus Virtual",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1067
+  },
+  {
+    "role": "link",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1076
+  },
+  {
+    "role": "link",
+    "name": "SISTEMA ELECTRÓNICO",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1078
+  },
+  {
+    "role": "link",
+    "name": "IR AL SECP →",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1081
+  },
+  {
+    "role": "link",
+    "name": "SisCompras Siscompras El Indicador de monitoreo del Sistema Nacional de Compras y Contrataciones Públicas (SISCOMPRAS) ha sido desarrollado para monitorear el cumplimiento de la Ley 340-06, su modificación y normativas vinculadas.",
+    "description": "El Indicador de monitoreo del Sistema Nacional de Compras y Contrataciones Públicas (SISCOMPRAS) ha sido desarrollado para monitorear el cumplimiento de la Ley 340-06, su modificación y normativas vinculadas.",
+    "ignored": false,
+    "backendDOMNodeId": 1085
+  },
+  {
+    "role": "link",
+    "name": "Icono Incidencias Asistencia remota Ponemos a su disposición nuestro canal de asistencia remota en línea para brindarle soporte técnico personalizado y en tiempo real, facilitando la ejecución de configuraciones complejas, solución de errores y actualizaciones guiadas directamente en su pantalla.",
+    "description": "Ponemos a su disposición nuestro canal de asistencia remota en línea para brindarle soporte técnico personalizado y en tiempo real, facilitando la ejecución de configuraciones complejas, solución de errores y actualizaciones guiadas directamente en su pantalla.",
+    "ignored": false,
+    "backendDOMNodeId": 1092
+  },
+  {
+    "role": "link",
+    "name": "Icono Instituciones Instituciones Implementadas Consulta las instituciones públicas que a la fecha están gestionando sus procesos de compras y contrataciones desde la planificación hasta la gestión y cierre del contrato dentro del Portal Transaccional.",
+    "description": "Consulta las instituciones públicas que a la fecha están gestionando sus procesos de compras y contrataciones desde la planificación hasta la gestión y cierre del contrato dentro del Portal Transaccional.",
+    "ignored": false,
+    "backendDOMNodeId": 1099
+  },
+  {
+    "role": "link",
+    "name": "Políticas de uso Materiales Didácticos SECP Es el conjunto de guías, manuales, instructivos y otros documentos emitidos por la Dirección General de Contrataciones Públicas, desarrollados para la autoformación y facilitar la consulta o reforzamiento sobre el uso del SECP.",
+    "description": "Es el conjunto de guías, manuales, instructivos y otros documentos emitidos por la Dirección General de Contrataciones Públicas, desarrollados para la autoformación y facilitar la consulta o reforzamiento sobre el uso del SECP.",
+    "ignored": false,
+    "backendDOMNodeId": 1106
+  },
+  {
+    "role": "link",
+    "name": "Facebook",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1423
+  },
+  {
+    "role": "link",
+    "name": "Twitter",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1426
+  },
+  {
+    "role": "link",
+    "name": "Youtube",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1429
+  },
+  {
+    "role": "link",
+    "name": "Instagram",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1432
+  },
+  {
+    "role": "link",
+    "name": "TikTok",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1435
+  },
+  {
+    "role": "link",
+    "name": "Linkedin",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1438
+  },
+  {
+    "role": "button",
+    "name": "Slide 1",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 29
+  },
+  {
+    "role": "button",
+    "name": "Slide 2",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 30
+  },
+  {
+    "role": "button",
+    "name": "Slide 3",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 31
+  },
+  {
+    "role": "button",
+    "name": "Slide 4",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 32
+  },
+  {
+    "role": "button",
+    "name": "Slide 5",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 33
+  },
+  {
+    "role": "button",
+    "name": "Slide 6",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 34
+  },
+  {
+    "role": "button",
+    "name": "Slide 7",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 35
+  },
+  {
+    "role": "button",
+    "name": "Slide 8",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 36
+  },
+  {
+    "role": "button",
+    "name": "Slide 9",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 37
+  },
+  {
+    "role": "button",
+    "name": "Slide 10",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 38
+  },
+  {
+    "role": "button",
+    "name": "Slide 11",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 39
+  },
+  {
+    "role": "button",
+    "name": "Slide 12",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 40
+  },
+  {
+    "role": "button",
+    "name": "Slide 13",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 41
+  },
+  {
+    "role": "button",
+    "name": "Slide 14",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 42
+  },
+  {
+    "role": "button",
+    "name": "Slide 15",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 43
+  },
+  {
+    "role": "button",
+    "name": "Slide 16",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 94
+  },
+  {
+    "role": "button",
+    "name": "Slide 17",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 95
+  },
+  {
+    "role": "button",
+    "name": "Slide 18",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 96
+  },
+  {
+    "role": "button",
+    "name": "Slide 19",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 97
+  },
+  {
+    "role": "button",
+    "name": "Slide 20",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 98
+  },
+  {
+    "role": "button",
+    "name": "Slide 21",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 99
+  },
+  {
+    "role": "button",
+    "name": "Slide 22",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 100
+  },
+  {
+    "role": "button",
+    "name": "Slide 23",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 101
+  },
+  {
+    "role": "button",
+    "name": "Slide 24",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 102
+  },
+  {
+    "role": "button",
+    "name": " Anterior",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 104
+  },
+  {
+    "role": "button",
+    "name": " Siguiente",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 105
+  },
+  {
+    "role": "button",
+    "name": "mute",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 61
+  },
+  {
+    "role": "image",
+    "name": "Registro de Proveedores",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 47
+  },
+  {
+    "role": "image",
+    "name": "Tablas",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 48
+  },
+  {
+    "role": "image",
+    "name": "Vinculación de usuario en el portal transaccional",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 50
+  },
+  {
+    "role": "image",
+    "name": "Icono capacitaciones",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 51
+  },
+  {
+    "role": "image",
+    "name": "Comunidad de Compras",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 52
+  },
+  {
+    "role": "link",
+    "name": "Envía tu correspondencia sin desplazarte",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1011
+  },
+  {
+    "role": "link",
+    "name": "ACCEDER AHORA",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1016
+  },
+  {
+    "role": "image",
+    "name": "fach-300x289",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 64
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 68
+  },
+  {
+    "role": "image",
+    "name": "SisCompras",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 69
+  },
+  {
+    "role": "image",
+    "name": "Icono Incidencias",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 70
+  },
+  {
+    "role": "image",
+    "name": "Icono Instituciones",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 71
+  },
+  {
+    "role": "image",
+    "name": "Políticas de uso",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 72
+  },
+  {
+    "role": "link",
+    "name": "COMPLETAR EL FORMULARIO",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1254
+  },
+  {
+    "role": "link",
+    "name": "WWW.311.GOB.DO",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1255
+  },
+  {
+    "role": "image",
+    "name": "Isotipo DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1350
+  },
+  {
+    "role": "image",
+    "name": "Logo GOB",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1352
+  },
+  {
+    "role": "link",
+    "name": "Contacto",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1360
+  },
+  {
+    "role": "link",
+    "name": "(809) 682-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1363
+  },
+  {
+    "role": "link",
+    "name": "(829) 681-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1364
+  },
+  {
+    "role": "link",
+    "name": "direcciongeneral@dgcp.gob.do",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1366
+  },
+  {
+    "role": "link",
+    "name": "Calle Pedro A. Lluberes #10204, Esq. Manuel Rodríguez Objío, Gascue, Santo Domingo, República Dominicana",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1371
+  },
+  {
+    "role": "link",
+    "name": "Términos de Uso",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1376
+  },
+  {
+    "role": "link",
+    "name": "Políticas de Privacidad",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1378
+  },
+  {
+    "role": "link",
+    "name": "Preguntas Frecuentes",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1380
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1392
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1395
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1398
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1401
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1404
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1407
+  },
+  {
+    "role": "link",
+    "name": "Sello Igualando RD Oro",
+    "description": "Sello Igualando RD",
+    "ignored": false,
+    "backendDOMNodeId": 1409
+  },
+  {
+    "role": "link",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "NORDOM ISO 37001: 2016",
+    "ignored": false,
+    "backendDOMNodeId": 1412
+  },
+  {
+    "role": "link",
+    "name": "Banner_Institucional-1-scaled",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 708
+  },
+  {
+    "role": "button",
+    "name": "Izquierda",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1222
+  },
+  {
+    "role": "button",
+    "name": "Derecha",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1225
+  },
+  {
+    "role": "image",
+    "name": "Denuncias",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 75
+  },
+  {
+    "role": "image",
+    "name": "Sello Igualando RD Oro",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1410
+  },
+  {
+    "role": "image",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1413
+  },
+  {
+    "role": "image",
+    "name": "Banner_Institucional-1-scaled",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 130
+  },
+  {
+    "role": "link",
+    "name": "MÁS INFORMACIÓN",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 712
+  },
+  {
+    "role": "image",
+    "name": "lemuel-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1119
+  },
+  {
+    "role": "image",
+    "name": "margarita-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1126
+  },
+  {
+    "role": "image",
+    "name": "maken-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1133
+  },
+  {
+    "role": "image",
+    "name": "gisel-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1140
+  },
+  {
+    "role": "image",
+    "name": "paola-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1147
+  },
+  {
+    "role": "image",
+    "name": "neris-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1154
+  },
+  {
+    "role": "image",
+    "name": "cristina-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1161
+  },
+  {
+    "role": "image",
+    "name": "lemuel-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1168
+  },
+  {
+    "role": "image",
+    "name": "margarita-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1174
+  },
+  {
+    "role": "image",
+    "name": "maken-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1181
+  },
+  {
+    "role": "image",
+    "name": "gisel-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1188
+  },
+  {
+    "role": "image",
+    "name": "paola-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1195
+  },
+  {
+    "role": "image",
+    "name": "neris-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1202
+  },
+  {
+    "role": "image",
+    "name": "cristina-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1209
+  },
+  {
+    "role": "image",
+    "name": "lemuel-150x150",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1216
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1123
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1130
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1137
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1144
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1151
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1158
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1165
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 111
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1178
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1185
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1192
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1199
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1206
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1213
+  },
+  {
+    "role": "link",
+    "name": "Video",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 1220
+  }
+]

@@ -1,0 +1,513 @@
+[
+  {
+    "role": "link",
+    "name": "Ir al contenido principal",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 225
+  },
+  {
+    "role": "link",
+    "name": "Reproducir o pausar animaciones",
+    "description": "Pausar Animaciones",
+    "ignored": false,
+    "backendDOMNodeId": 226
+  },
+  {
+    "role": "image",
+    "name": "Dominican flag",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 70
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 320
+  },
+  {
+    "role": "link",
+    "name": "DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 339
+  },
+  {
+    "role": "link",
+    "name": "SISTEMA ELECTRÓNICO",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 342
+  },
+  {
+    "role": "link",
+    "name": "RICG",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 894
+  },
+  {
+    "role": "link",
+    "name": "Open Contracting",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 895
+  },
+  {
+    "role": "link",
+    "name": "CoST Iniciativa de transparencia en Infraestructura",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 896
+  },
+  {
+    "role": "button",
+    "name": "Menú de Accesibilidad",
+    "description": "Menú de Accesibilidad",
+    "ignored": false,
+    "backendDOMNodeId": 210
+  },
+  {
+    "role": "button",
+    "name": " Buscar",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 7
+  },
+  {
+    "role": "button",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 356
+  },
+  {
+    "role": "link",
+    "name": "ES ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 442
+  },
+  {
+    "role": "link",
+    "name": "Inicio",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 547
+  },
+  {
+    "role": "link",
+    "name": "Transparencia",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 568
+  },
+  {
+    "role": "link",
+    "name": "Noticias",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 569
+  },
+  {
+    "role": "link",
+    "name": "MIPYMEs",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 607
+  },
+  {
+    "role": "link",
+    "name": "Contactos",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 609
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 47
+  },
+  {
+    "role": "image",
+    "name": "RICG",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 17
+  },
+  {
+    "role": "image",
+    "name": "Open Contracting",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 18
+  },
+  {
+    "role": "image",
+    "name": "CoST Iniciativa de transparencia en Infraestructura",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 19
+  },
+  {
+    "role": "image",
+    "name": "DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 4
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 11
+  },
+  {
+    "role": "image",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 24
+  },
+  {
+    "role": "button",
+    "name": "Nosotros ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 549
+  },
+  {
+    "role": "button",
+    "name": "Servicios ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 560
+  },
+  {
+    "role": "button",
+    "name": "Sistema de Información ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 571
+  },
+  {
+    "role": "button",
+    "name": "Interés ",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 581
+  },
+  {
+    "role": "link",
+    "name": "INICIO",
+    "description": "Clic para acceder al enlace",
+    "ignored": false,
+    "backendDOMNodeId": 668
+  },
+  {
+    "role": "link",
+    "name": "DGCP establece orientaciones para uso adecuado de los procedimientos de excepción en las contrataciones públicas 14/10/2026 El Manual de Procedimientos de Excepción orienta a las entidades contratantes sobre las condiciones, requisitos y procedimientos que condicionan su uso. Santo Domingo, R.D..- La Dirección General de Contrataciones Públicas (DGCP) emitió el nuevo Manual General de Procedimientos de Excepción de las Contrataciones Públicas, que establece orientaciones para el uso adecuado de estas modalidades extraordinarias, conforme a la Ley núm. 47-25 y su Reglamento general de aplicación núm. 52-26. El documento, de aplicación obligatoria, establece los lineamientos generales para el uso adecuado de los procedimientos de excepción por parte de las entidades contratantes, promoviendo que las excepciones sean utilizadas únicamente cuando…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 783
+  },
+  {
+    "role": "link",
+    "name": "OCDE destaca liderazgo y capacidades técnicas de la DGCP en materia de integridad 30/09/2026 Un informe del organismo internacional valora las herramientas de gestión de riesgos, las políticas de cumplimiento con el sector privado y la transparencia en las compras públicas dominicanas Santo Domingo, R.D..- La Organización para la Cooperación y Desarrollo Económicos (OCDE) posicionó a la Dirección General de Contrataciones Públicas (DGCP) como un referente técnico clave dentro del sistema nacional de integridad. En su más reciente estudio sobre integridad en la República Dominicana: “Implementar una visión estratégica para la integridad y anticorrupción (2026)” el organismo internacional destacó las capacidades alcanzadas por la institución para prevenir y detectar la corrupción en las compras y…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 792
+  },
+  {
+    "role": "link",
+    "name": "Contrataciones Públicas exhorta a proveedores a aprovechar oportunidades de EFICOMPRAS RD 28/09/2026 El órgano rector exhorta a las empresas que comercializan bienes de uso común a incorporarse a la primera tienda virtual del Estado y aprovechar las nuevas oportunidades de participación en las compras públicas Santo Domingo, R.D..- La Dirección General de Contrataciones Públicas (DGCP) exhortó este lunes a las micro, pequeñas y medianas empresas (mipymes) inscritas en el Registro de Proveedores del Estado (RPE) a publicar sus catálogos de productos en EFICOMPRAS RD, la nueva plataforma integrada al Sistema Electrónico de Contrataciones Públicas (SECP), mediante la cual las instituciones realizarán las compras directas de bienes por debajo del umbral. La institución explicó…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 801
+  },
+  {
+    "role": "link",
+    "name": "DGCP analiza adjudicaciones del almuerzo escolar y verifica contratos suspendidos por el INABIE 22/09/2026 El órgano rector informó que conoce recursos y solicitudes presentadas por participantes: realiza investigaciones sobre determinadas adjudicaciones y verifica contratos suspendidos por el INABIE. Santo Domingo, R.D..- La Dirección General de Contrataciones Públicas (DGCP) informó este martes que mantiene un proceso de seguimiento y verificación de las contrataciones de cocinas realizadas por el Instituto Nacional de Bienestar Estudiantil (INABIE), a partir de las actuaciones y recursos presentados por participantes en los procedimientos, así como de situaciones conocidas públicamente que ameritan ser examinadas dentro de sus competencias. Los procesos corresponden a 34 licitaciones públicas nacionales del procedimiento INABIE-CCC-LPN-2025- 0051 hasta el INABIE-CCC-LPN-2025-0084…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 809
+  },
+  {
+    "role": "link",
+    "name": "DGCP suspende de forma cautelar el Registro de Proveedores de cuatro empresas e informará de los hallazgos al Ministerio Público 15/09/2026 El órgano rector dijo que la medida preventiva busca evitar que sociedades relacionadas con personas o empresas suspendidas continúen participando indirectamente en las compras del Estado. Santo Domingo, R.D..- dispuso la suspensión de oficio y con carácter cautelar del Registro de Proveedores del Estado (RPE) de cuatro empresas, tras identificar la existencia de posibles vínculos societarios, comerciales y familiares con personas y sociedades bajo investigación del Ministerio Público por presuntos delitos contra la Administración pública. Las razones sociales impactadas por la medida preventiva, contenida en el acto administrativo núm. DGCP44-2026-003760 son: Grupo Zomo, SRL; Southwest Corporation Dominicana, SRL; Marenas, SRL y…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 818
+  },
+  {
+    "role": "link",
+    "name": "MHE destaca avances del ProTEVI en el impulso a la productividad y sostenibilidad de las mipymes 11/09/2026 El programa es una alianza entre el Gobierno de la República Dominicana y la Unión Europea. Desde su ejecución impulsa a las pequeñas empresas hacia un modelo productivo más verde e inclusivo Santo Domingo, R.D..- – El Ministerio de Hacienda y Economía (MHE) encabezó la reunión del Comité Directivo del Programa de Apoyo Presupuestario “Transición hacia una Economía más Verde e Inclusiva” (ProTEVI), donde presentó los principales resultados de la iniciativa en sus tres años de ejecución (2024–2026), entre los que destacan más de 76,000 capacitaciones y más de 9,600 acompañamientos a micro, pequeñas y medianas empresas (mipymes) en su desarrollo…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 827
+  },
+  {
+    "role": "link",
+    "name": "DGCP suspende de oficio proceso de licitación de RD$ 240 millones del Ayuntamiento de San Cristóbal 10/09/2026 La normativa regula la selección, funciones, incompatibilidades y el desempeño de los peritos en el marco de la Ley núm. 47-25. Establece la creación de un banco de peritos, asi como normas estrictas de conducta y régimen antisoborno Santo Domingo, R.D..- – La Dirección General de Contrataciones Públicas (DGCP), informó este jueves la suspensión de oficio del procedimiento de licitación pública nacional núm. ASC-CCC-LPN-2026-0003, del Ayuntamiento del municipio de San Cristóbal para la recolección y transporte de residuos sólidos (2026-2028), por un monto de RD$ 240,000,000 por violaciones a la Ley núm. 47-25 de Contrataciones Públicas. La medida cautelar, contenida en…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 836
+  },
+  {
+    "role": "link",
+    "name": "DGCP emite nuevo Reglamento de Peritos para fortalecer la transparencia e idoneidad en las contrataciones públicas 10/09/2026 La normativa regula la selección, funciones, incompatibilidades y el desempeño de los peritos en el marco de la Ley núm. 47-25. Establece la creación de un banco de peritos, asi como normas estrictas de conducta y régimen antisoborno Santo Domingo, R.D..- – La Dirección General de Contrataciones Públicas (DGCP) anunció este jueves la entrada en vigencia del Reglamento Núm. DGCP-SNCP-05-2026 de Peritos en Contratación Pública, que establece el marco regulatorio para la selección, designación, acreditación, desempeño y responsabilidad de los profesionales encargados de la estructuración técnica y evaluación de ofertas en los procesos de contratación del Estado. Esta normativa da cumplimiento…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 845
+  },
+  {
+    "role": "link",
+    "name": "DGCP ratifica suspensión preventiva del Registro de Proveedores del Estado a empresas investigadas por el Ministerio Público 09/09/2026 El órgano rector rechazó los recursos de reconsideración interpuestos por Condelca, S.R.L. y Empresas Integradas, S.A.S., reiterando que la medida busca proteger el patrimonio público y salvaguardar la integridad del sistema de contrataciones públicas. Santo Domingo, R.D..- – La Dirección General de Contrataciones Públicas (DGCP) ratificó la suspensión de oficio del Registro de Proveedores del Estado (RPE) de las sociedades comerciales Condelca, S.R.L. y Empresas Integradas, S.A.S., tras desestimar los recursos de reconsideración presentados por dichas entidades contra el acto administrativo núm. DGCP44-2025-004600 de fecha 20 de noviembre de 2025. Mediante una nota de prensa, el órgano rector explicó que la…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 854
+  },
+  {
+    "role": "link",
+    "name": "Fachada DGCP TSA ratifica suspensión de Registro de Proveedores a Inversiones Qtek y Mediterráneo Investments 08/09/2026 Santo Domingo, R.D..- – El Tribunal Superior Administrativo (TSA) ratificó la suspensión del Registro de Proveedores del Estado (RPE) de las razones sociales Inversiones Qtek S.R.L. y Mediterráneo Investments Group, S.R.L. impuestas por la Dirección General de Contrataciones Públicas mediante la resolución núm. DGCP44-2025-004600. Mediante la sentencia núm. 0030-01-2026-SSMC-00002, dictada el 16 de enero de 2026, la presidencia del tribunal rechazó en cuanto al fondo la solicitud de adopción de medida cautelar anticipada interpuesta por las empresas Inversiones Qtek, S.R.L. y Mediterráneo Investments Group, S.R.L y confirmó la validez de la suspensión preventiva de los registros de ambas compañías. La referida…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 863
+  },
+  {
+    "role": "link",
+    "name": "Presidente Abinader destaca avances experimentados en el sistema de contrataciones durante su mandato 20/08/2026 El mandatario habló durante el acto inaugural del Foro de Contrataciones Públicas organizado por la DGCP donde destacó que una de las reformas más importantes ha sido la aprobación de la Ley 47-25. El mandatario aprovechó para reconocer el trabajo que ha venido realizando la DGCP que le mereció el Premio de las Naciones Unidas al Servicio Público 2026 Santo Domingo, R.D..- – El presidente Luis Abinader encabezó este miércoles el acto inaugural del Foro de Contratación Pública organizado por el Centro de Estudios e Investigaciones de la Dirección General de Contrataciones Públicas (DGCP), en el que expertos en la materia…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 872
+  },
+  {
+    "role": "link",
+    "name": "Gobierno lanza Eficompras, la nueva tienda virtual que democratiza las compras por debajo del umbral 18/08/2026 La plataforma integrada al Sistema Electrónico de Contrataciones Públicas incentiva la participación de las mipymes en las compras directas y facilita la gestión a las instituciones del Estado. Santo Domingo, R.D..- En un acto encabezado por el presidente Luis Abinader y en el marco del proceso de implementación de la Ley 47-25, la Dirección General de Contrataciones Públicas (DGCP) anunció la entrada en vigor de Eficompras, la nueva plataforma integrada al Sistema Electrónico de Contrataciones Públicas (SECP) para la adquisición de bienes de uso común con un monto por debajo de los RD$268,111.38. Tras completar de manera exitosa la fase piloto…",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 881
+  },
+  {
+    "role": "link",
+    "name": "Facebook",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 969
+  },
+  {
+    "role": "link",
+    "name": "Twitter",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 972
+  },
+  {
+    "role": "link",
+    "name": "Youtube",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 975
+  },
+  {
+    "role": "link",
+    "name": "Instagram",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 978
+  },
+  {
+    "role": "link",
+    "name": "TikTok",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 981
+  },
+  {
+    "role": "link",
+    "name": "Linkedin",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 984
+  },
+  {
+    "role": "combobox",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 58
+  },
+  {
+    "role": "combobox",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 59
+  },
+  {
+    "role": "combobox",
+    "name": "",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 60
+  },
+  {
+    "role": "button",
+    "name": "LIMPIAR",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 781
+  },
+  {
+    "role": "image",
+    "name": "Fachada DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 90
+  },
+  {
+    "role": "image",
+    "name": "Isotipo DGCP",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 20
+  },
+  {
+    "role": "image",
+    "name": "Logo GOB",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 22
+  },
+  {
+    "role": "link",
+    "name": "Contacto",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 910
+  },
+  {
+    "role": "link",
+    "name": "(809) 682-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 913
+  },
+  {
+    "role": "link",
+    "name": "(829) 681-7407",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 914
+  },
+  {
+    "role": "link",
+    "name": "direcciongeneral@dgcp.gob.do",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 916
+  },
+  {
+    "role": "link",
+    "name": "Calle Pedro A. Lluberes #10204, Esq. Manuel Rodríguez Objío, Gascue, Santo Domingo, República Dominicana",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 920
+  },
+  {
+    "role": "link",
+    "name": "Términos de Uso",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 924
+  },
+  {
+    "role": "link",
+    "name": "Políticas de Privacidad",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 926
+  },
+  {
+    "role": "link",
+    "name": "Preguntas Frecuentes",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 928
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 940
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 943
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 946
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 949
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 952
+  },
+  {
+    "role": "link",
+    "name": "Sello NORTIC",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 955
+  },
+  {
+    "role": "link",
+    "name": "Sello Igualando RD Oro",
+    "description": "Sello Igualando RD",
+    "ignored": false,
+    "backendDOMNodeId": 957
+  },
+  {
+    "role": "link",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "NORDOM ISO 37001: 2016",
+    "ignored": false,
+    "backendDOMNodeId": 959
+  },
+  {
+    "role": "image",
+    "name": "Sello Igualando RD Oro",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 50
+  },
+  {
+    "role": "image",
+    "name": "NORDOM ISO 37001: 2016",
+    "description": "",
+    "ignored": false,
+    "backendDOMNodeId": 51
+  }
+]

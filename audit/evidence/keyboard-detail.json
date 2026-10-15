@@ -1,0 +1,154 @@
+{
+  "generatedAt": "2026-10-14T16:06:32.270Z",
+  "forward": [
+    {
+      "tag": "a",
+      "id": null,
+      "text": "Ir al contenido principal",
+      "href": "#informacion",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": "btn1",
+      "text": "Pausar animaciones",
+      "href": "#body",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "text": "",
+      "href": "https://www.dgcp.gob.do",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "text": "SISTEMA ELECTRÓNICO",
+      "href": "https://secp.gob.do/",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "input",
+      "id": null,
+      "text": "",
+      "href": null,
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "button",
+      "id": null,
+      "text": "Buscar",
+      "href": null,
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": "current-lang",
+      "text": "ES",
+      "href": "#",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "text": "Inicio",
+      "href": "https://www.dgcp.gob.do/",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "text": "Nosotros",
+      "href": "https://www.dgcp.gob.do/sobre-nosotros/",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "text": "Servicios",
+      "href": "https://www.dgcp.gob.do/servicios/",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "text": "Transparencia",
+      "href": "https://www.dgcp.gob.do/transparencia/",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "text": "Noticias",
+      "href": "https://www.dgcp.gob.do/noticias/",
+      "url": "https://www.dgcp.gob.do/"
+    }
+  ],
+  "backward": [
+    {
+      "tag": "a",
+      "id": null,
+      "text": "Transparencia",
+      "href": "https://www.dgcp.gob.do/transparencia/",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "text": "Servicios",
+      "href": "https://www.dgcp.gob.do/servicios/",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "text": "Nosotros",
+      "href": "https://www.dgcp.gob.do/sobre-nosotros/",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "text": "Inicio",
+      "href": "https://www.dgcp.gob.do/",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    {
+      "tag": "a",
+      "id": "current-lang",
+      "text": "ES",
+      "href": "#",
+      "url": "https://www.dgcp.gob.do/"
+    }
+  ],
+  "menuSpace": {
+    "before": {
+      "expanded": "false",
+      "url": "https://www.dgcp.gob.do/"
+    },
+    "afterSpace": {
+      "expanded": "false",
+      "url": "https://www.dgcp.gob.do/",
+      "active": {
+        "tag": "a",
+        "id": null,
+        "text": "Nosotros",
+        "href": "https://www.dgcp.gob.do/sobre-nosotros/",
+        "url": "https://www.dgcp.gob.do/"
+      }
+    }
+  },
+  "pauseSpace": {
+    "titleBefore": "Pausar Animaciones",
+    "titleAfter": "Pausar Animaciones",
+    "active": {
+      "tag": "a",
+      "id": "btn1",
+      "text": "Pausar animaciones",
+      "href": "#body",
+      "url": "https://www.dgcp.gob.do/"
+    }
+  }
+}

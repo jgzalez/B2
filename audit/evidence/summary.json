@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-10-14T15:46:06.677Z",
+  "chromium": "149.0.7827.102",
+  "pages": [
+    {
+      "name": "inicio",
+      "requestedUrl": "https://www.dgcp.gob.do/",
+      "status": 200,
+      "error": null,
+      "finalUrl": "https://www.dgcp.gob.do/",
+      "title": "Dirección General de Contrataciones Públicas",
+      "lang": "es",
+      "axeViolations": 9,
+      "axeViolationNodes": 19,
+      "images": 118,
+      "missingAlt": 7,
+      "genericImageAlt": 0,
+      "emptyLinks": 35,
+      "controls": 48,
+      "keyboardStops": 44,
+      "media": 16
+    }
+  ]
+}

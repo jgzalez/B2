@@ -1,0 +1,92 @@
+[
+  {
+    "file": "estudio-mujeres-mipymes.pdf",
+    "bytes": 1030970,
+    "pages": 76,
+    "tagged_marked": false,
+    "has_struct_tree_root": false,
+    "document_language": null,
+    "viewer_display_doc_title": false,
+    "metadata": {
+      "/Producer": "GPL Ghostscript 9.55.0",
+      "/CreationDate": "D:20241122194338Z00'00'",
+      "/ModDate": "D:20241122194338Z00'00'",
+      "/Creator": "Adobe InDesign 20.0 (Macintosh)"
+    },
+    "form_field_count": 0,
+    "form_fields": [],
+    "pages_with_no_extractable_text": 5,
+    "min_page_text_chars": 0,
+    "median_page_text_chars": 1921,
+    "total_text_chars": 131365,
+    "extraction_errors": []
+  },
+  {
+    "file": "formulario-rpe.pdf",
+    "bytes": 1986848,
+    "pages": 2,
+    "tagged_marked": false,
+    "has_struct_tree_root": false,
+    "document_language": null,
+    "viewer_display_doc_title": false,
+    "metadata": {
+      "/CreationDate": "D:20260827135454-04'00'",
+      "/Creator": "Adobe Illustrator 30.4 (Macintosh)",
+      "/ModDate": "D:20260827135454-04'00'",
+      "/Producer": "Adobe PDF library 18.00",
+      "/Title": "Formulario Solicitud"
+    },
+    "form_field_count": 0,
+    "form_fields": [],
+    "pages_with_no_extractable_text": 0,
+    "min_page_text_chars": 1319,
+    "median_page_text_chars": 3131,
+    "total_text_chars": 4450,
+    "extraction_errors": []
+  },
+  {
+    "file": "ley-47-25.pdf",
+    "bytes": 58581610,
+    "pages": 166,
+    "tagged_marked": false,
+    "has_struct_tree_root": false,
+    "document_language": null,
+    "viewer_display_doc_title": false,
+    "metadata": {
+      "/CreationDate": "D:20250728114016-04'00'",
+      "/ModDate": "D:20250728114016-04'00'",
+      "/Creator": "PFU ScanSnap Home 2.21.0 #iX1600",
+      "/Producer": "PFUPDF Engine 1.3.21"
+    },
+    "form_field_count": 0,
+    "form_fields": [],
+    "pages_with_no_extractable_text": 0,
+    "min_page_text_chars": 472,
+    "median_page_text_chars": 1748,
+    "total_text_chars": 290279,
+    "extraction_errors": []
+  },
+  {
+    "file": "revista-contrataciones-2025.pdf",
+    "bytes": 5078527,
+    "pages": 76,
+    "tagged_marked": false,
+    "has_struct_tree_root": false,
+    "document_language": "en-US",
+    "viewer_display_doc_title": false,
+    "metadata": {
+      "/CreationDate": "D:20250904103243-04'00'",
+      "/Creator": "Adobe InDesign 20.5 (Macintosh)",
+      "/ModDate": "D:20250904103256-04'00'",
+      "/Producer": "Adobe PDF Library 17.0",
+      "/Trapped": "/False"
+    },
+    "form_field_count": 0,
+    "form_fields": [],
+    "pages_with_no_extractable_text": 3,
+    "min_page_text_chars": 0,
+    "median_page_text_chars": 2329,
+    "total_text_chars": 185989,
+    "extraction_errors": []
+  }
+]
